@@ -1,0 +1,1698 @@
+2024/02/22 23:47:01.514: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/22 23:47:01.518: Response: New value for key, semester, added: spring2024
+2024/02/22 23:47:01.519: New value for key, semester, added: spring2024
+2024/02/22 23:47:01.519: Sending to client: New value for key, semester, added: spring2024
+2024/02/22 23:47:01.521: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/22 23:47:01.521: Response: New value for key, professor, added: saripalli
+2024/02/22 23:47:01.521: New value for key, professor, added: saripalli
+2024/02/22 23:47:01.522: Sending to client: New value for key, professor, added: saripalli
+2024/02/22 23:47:01.523: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/22 23:47:01.523: Response: New value for key, program, added: mscs
+2024/02/22 23:47:01.523: New value for key, program, added: mscs
+2024/02/22 23:47:01.523: Sending to client: New value for key, program, added: mscs
+2024/02/22 23:47:01.524: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/22 23:47:01.525: Response: New value for key, university, added: northeastern
+2024/02/22 23:47:01.525: New value for key, university, added: northeastern
+2024/02/22 23:47:01.525: Sending to client: New value for key, university, added: northeastern
+2024/02/22 23:47:01.526: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/22 23:47:01.527: Response: New value for key, name, added: dominic
+2024/02/22 23:47:01.527: New value for key, name, added: dominic
+2024/02/22 23:47:01.527: Sending to client: New value for key, name, added: dominic
+2024/02/22 23:47:01.528: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/22 23:47:01.529: Response: dominicreturned for keyname.
+2024/02/22 23:47:01.529: dominic
+2024/02/22 23:47:01.529: Sending to client: dominic
+2024/02/22 23:47:01.530: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/22 23:47:01.533: Response: Key, name, successfully removed from store.
+2024/02/22 23:47:01.533: Key successfully removed from store.
+2024/02/22 23:47:01.533: Sending to client: Key successfully removed from store.
+2024/02/22 23:47:01.534: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/22 23:47:01.534: Response: New value for key, degree, added: cs
+2024/02/22 23:47:01.534: New value for key, degree, added: cs
+2024/02/22 23:47:01.535: Sending to client: New value for key, degree, added: cs
+2024/02/22 23:47:01.536: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/22 23:47:01.536: Response: csreturned for keydegree.
+2024/02/22 23:47:01.536: cs
+2024/02/22 23:47:01.536: Sending to client: cs
+2024/02/22 23:47:01.537: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/22 23:47:01.537: Response: Key, degree, successfully removed from store.
+2024/02/22 23:47:01.537: Key successfully removed from store.
+2024/02/22 23:47:01.537: Sending to client: Key successfully removed from store.
+2024/02/22 23:47:01.538: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/22 23:47:01.538: Response: New value for key, industry, added: ecommerce
+2024/02/22 23:47:01.538: New value for key, industry, added: ecommerce
+2024/02/22 23:47:01.538: Sending to client: New value for key, industry, added: ecommerce
+2024/02/22 23:47:01.539: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/22 23:47:01.539: Response: ecommercereturned for keyindustry.
+2024/02/22 23:47:01.539: ecommerce
+2024/02/22 23:47:01.539: Sending to client: ecommerce
+2024/02/22 23:47:01.541: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/22 23:47:01.541: Response: Key, industry, successfully removed from store.
+2024/02/22 23:47:01.541: Key successfully removed from store.
+2024/02/22 23:47:01.541: Sending to client: Key successfully removed from store.
+2024/02/22 23:47:01.542: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/22 23:47:01.542: Response: New value for key, location, added: boston
+2024/02/22 23:47:01.542: New value for key, location, added: boston
+2024/02/22 23:47:01.542: Sending to client: New value for key, location, added: boston
+2024/02/22 23:47:01.543: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/22 23:47:01.543: Response: bostonreturned for keylocation.
+2024/02/22 23:47:01.543: boston
+2024/02/22 23:47:01.543: Sending to client: boston
+2024/02/22 23:47:01.544: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/22 23:47:01.544: Response: Key, location, successfully removed from store.
+2024/02/22 23:47:01.544: Key successfully removed from store.
+2024/02/22 23:47:01.544: Sending to client: Key successfully removed from store.
+2024/02/22 23:47:01.545: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/22 23:47:01.545: Response: New value for key, job, added: analyst
+2024/02/22 23:47:01.545: New value for key, job, added: analyst
+2024/02/22 23:47:01.546: Sending to client: New value for key, job, added: analyst
+2024/02/22 23:47:01.546: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/22 23:47:01.546: Response: analystreturned for keyjob.
+2024/02/22 23:47:01.546: analyst
+2024/02/22 23:47:01.547: Sending to client: analyst
+2024/02/22 23:47:01.547: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/22 23:47:01.547: Response: Key, job, successfully removed from store.
+2024/02/22 23:47:01.547: Key successfully removed from store.
+2024/02/22 23:47:01.547: Sending to client: Key successfully removed from store.
+2024/02/22 23:47:19.608: Received malformed request of length 1from address null, port 0
+2024/02/22 23:47:19.660: Received malformed request of length 1from address null, port 0
+2024/02/22 23:47:19.661: Datagram packet malformed.
+2024/02/22 23:47:19.661: Sending to client: Datagram packet malformed.
+2024/02/22 23:47:23.872: Quit requested. Server shutting down.
+2024/02/22 23:47:23.873: Quit requested. Server shutting down.
+2024/02/22 23:47:23.873: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:09:15.631: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:09:15.633: Response: New value for key, class, added: cs6650
+2024/02/23 00:09:15.633: New value for key, class, added: cs6650
+2024/02/23 00:09:15.633: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:09:15.634: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:09:15.635: Response: New value for key, semester, added: spring2024
+2024/02/23 00:09:15.635: New value for key, semester, added: spring2024
+2024/02/23 00:09:15.635: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:09:15.636: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:09:15.636: Response: New value for key, professor, added: saripalli
+2024/02/23 00:09:15.636: New value for key, professor, added: saripalli
+2024/02/23 00:09:15.636: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:09:15.636: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:09:15.637: Response: New value for key, program, added: mscs
+2024/02/23 00:09:15.637: New value for key, program, added: mscs
+2024/02/23 00:09:15.637: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:09:15.637: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:09:15.637: Response: New value for key, university, added: northeastern
+2024/02/23 00:09:15.637: New value for key, university, added: northeastern
+2024/02/23 00:09:15.638: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:09:15.638: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:15.638: Response: New value for key, name, added: dominic
+2024/02/23 00:09:15.638: New value for key, name, added: dominic
+2024/02/23 00:09:15.639: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:09:15.639: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:15.639: Response: dominicreturned for keyname.
+2024/02/23 00:09:15.639: dominic
+2024/02/23 00:09:15.640: Sending to client: dominic
+2024/02/23 00:09:15.640: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:15.642: Response: Key, name, successfully removed from store.
+2024/02/23 00:09:15.642: Key successfully removed from store.
+2024/02/23 00:09:15.642: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:15.642: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:15.642: Response: New value for key, degree, added: cs
+2024/02/23 00:09:15.643: New value for key, degree, added: cs
+2024/02/23 00:09:15.643: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:09:15.643: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:15.643: Response: csreturned for keydegree.
+2024/02/23 00:09:15.643: cs
+2024/02/23 00:09:15.643: Sending to client: cs
+2024/02/23 00:09:15.644: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:15.644: Response: Key, degree, successfully removed from store.
+2024/02/23 00:09:15.644: Key successfully removed from store.
+2024/02/23 00:09:15.644: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:15.645: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:15.645: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:09:15.645: New value for key, industry, added: ecommerce
+2024/02/23 00:09:15.645: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:09:15.645: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:15.646: Response: ecommercereturned for keyindustry.
+2024/02/23 00:09:15.646: ecommerce
+2024/02/23 00:09:15.646: Sending to client: ecommerce
+2024/02/23 00:09:15.647: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:15.647: Response: Key, industry, successfully removed from store.
+2024/02/23 00:09:15.647: Key successfully removed from store.
+2024/02/23 00:09:15.647: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:15.647: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:15.647: Response: New value for key, location, added: boston
+2024/02/23 00:09:15.647: New value for key, location, added: boston
+2024/02/23 00:09:15.647: Sending to client: New value for key, location, added: boston
+2024/02/23 00:09:15.648: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:15.648: Response: bostonreturned for keylocation.
+2024/02/23 00:09:15.648: boston
+2024/02/23 00:09:15.648: Sending to client: boston
+2024/02/23 00:09:15.649: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:15.649: Response: Key, location, successfully removed from store.
+2024/02/23 00:09:15.649: Key successfully removed from store.
+2024/02/23 00:09:15.649: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:15.649: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:15.649: Response: New value for key, job, added: analyst
+2024/02/23 00:09:15.649: New value for key, job, added: analyst
+2024/02/23 00:09:15.649: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:09:15.650: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:15.650: Response: analystreturned for keyjob.
+2024/02/23 00:09:15.650: analyst
+2024/02/23 00:09:15.650: Sending to client: analyst
+2024/02/23 00:09:15.650: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:15.651: Response: Key, job, successfully removed from store.
+2024/02/23 00:09:15.651: Key successfully removed from store.
+2024/02/23 00:09:15.651: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:20.501: Quit requested. Server shutting down.
+2024/02/23 00:09:20.502: Quit requested. Server shutting down.
+2024/02/23 00:09:20.502: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:09:32.425: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:09:32.427: Response: New value for key, class, added: cs6650
+2024/02/23 00:09:32.427: New value for key, class, added: cs6650
+2024/02/23 00:09:32.427: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:09:32.429: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:09:32.429: Response: New value for key, semester, added: spring2024
+2024/02/23 00:09:32.429: New value for key, semester, added: spring2024
+2024/02/23 00:09:32.429: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:09:32.430: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:09:32.430: Response: New value for key, professor, added: saripalli
+2024/02/23 00:09:32.430: New value for key, professor, added: saripalli
+2024/02/23 00:09:32.430: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:09:32.430: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:09:32.431: Response: New value for key, program, added: mscs
+2024/02/23 00:09:32.431: New value for key, program, added: mscs
+2024/02/23 00:09:32.431: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:09:32.431: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:09:32.431: Response: New value for key, university, added: northeastern
+2024/02/23 00:09:32.432: New value for key, university, added: northeastern
+2024/02/23 00:09:32.432: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:09:32.432: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:32.432: Response: New value for key, name, added: dominic
+2024/02/23 00:09:32.432: New value for key, name, added: dominic
+2024/02/23 00:09:32.433: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:09:32.433: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:32.433: Response: dominicreturned for keyname.
+2024/02/23 00:09:32.433: dominic
+2024/02/23 00:09:32.433: Sending to client: dominic
+2024/02/23 00:09:32.434: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:09:32.435: Response: Key, name, successfully removed from store.
+2024/02/23 00:09:32.436: Key successfully removed from store.
+2024/02/23 00:09:32.436: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:32.436: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:32.436: Response: New value for key, degree, added: cs
+2024/02/23 00:09:32.436: New value for key, degree, added: cs
+2024/02/23 00:09:32.436: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:09:32.437: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:32.437: Response: csreturned for keydegree.
+2024/02/23 00:09:32.437: cs
+2024/02/23 00:09:32.437: Sending to client: cs
+2024/02/23 00:09:32.438: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:09:32.438: Response: Key, degree, successfully removed from store.
+2024/02/23 00:09:32.438: Key successfully removed from store.
+2024/02/23 00:09:32.438: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:32.439: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:32.439: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:09:32.439: New value for key, industry, added: ecommerce
+2024/02/23 00:09:32.439: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:09:32.440: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:32.440: Response: ecommercereturned for keyindustry.
+2024/02/23 00:09:32.440: ecommerce
+2024/02/23 00:09:32.440: Sending to client: ecommerce
+2024/02/23 00:09:32.440: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:09:32.441: Response: Key, industry, successfully removed from store.
+2024/02/23 00:09:32.441: Key successfully removed from store.
+2024/02/23 00:09:32.441: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:32.441: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:32.441: Response: New value for key, location, added: boston
+2024/02/23 00:09:32.441: New value for key, location, added: boston
+2024/02/23 00:09:32.441: Sending to client: New value for key, location, added: boston
+2024/02/23 00:09:32.442: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:32.442: Response: bostonreturned for keylocation.
+2024/02/23 00:09:32.442: boston
+2024/02/23 00:09:32.442: Sending to client: boston
+2024/02/23 00:09:32.442: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:09:32.443: Response: Key, location, successfully removed from store.
+2024/02/23 00:09:32.443: Key successfully removed from store.
+2024/02/23 00:09:32.443: Sending to client: Key successfully removed from store.
+2024/02/23 00:09:32.443: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:32.443: Response: New value for key, job, added: analyst
+2024/02/23 00:09:32.443: New value for key, job, added: analyst
+2024/02/23 00:09:32.443: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:09:32.444: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:32.444: Response: analystreturned for keyjob.
+2024/02/23 00:09:32.444: analyst
+2024/02/23 00:09:32.444: Sending to client: analyst
+2024/02/23 00:09:32.444: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:09:32.444: Response: Key, job, successfully removed from store.
+2024/02/23 00:09:32.445: Key successfully removed from store.
+2024/02/23 00:09:32.445: Sending to client: Key successfully removed from store.
+2024/02/23 00:10:39.461: Quit requested. Server shutting down.
+2024/02/23 00:10:39.511: Quit requested. Server shutting down.
+2024/02/23 00:10:39.512: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:11:33.869: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:11:33.871: Response: New value for key, class, added: cs6650
+2024/02/23 00:11:33.871: New value for key, class, added: cs6650
+2024/02/23 00:11:33.871: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:11:33.872: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:11:33.872: Response: New value for key, semester, added: spring2024
+2024/02/23 00:11:33.873: New value for key, semester, added: spring2024
+2024/02/23 00:11:33.873: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:11:33.873: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:11:33.873: Response: New value for key, professor, added: saripalli
+2024/02/23 00:11:33.874: New value for key, professor, added: saripalli
+2024/02/23 00:11:33.874: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:11:33.874: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:11:33.874: Response: New value for key, program, added: mscs
+2024/02/23 00:11:33.874: New value for key, program, added: mscs
+2024/02/23 00:11:33.875: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:11:33.875: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:11:33.875: Response: New value for key, university, added: northeastern
+2024/02/23 00:11:33.875: New value for key, university, added: northeastern
+2024/02/23 00:11:33.875: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:11:33.876: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:11:33.876: Response: New value for key, name, added: dominic
+2024/02/23 00:11:33.876: New value for key, name, added: dominic
+2024/02/23 00:11:33.876: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:11:33.877: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:11:33.877: Response: dominicreturned for keyname.
+2024/02/23 00:11:33.877: dominic
+2024/02/23 00:11:33.877: Sending to client: dominic
+2024/02/23 00:11:33.878: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:11:33.879: Response: Key, name, successfully removed from store.
+2024/02/23 00:11:33.880: Key successfully removed from store.
+2024/02/23 00:11:33.880: Sending to client: Key successfully removed from store.
+2024/02/23 00:11:33.880: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:11:33.880: Response: New value for key, degree, added: cs
+2024/02/23 00:11:33.880: New value for key, degree, added: cs
+2024/02/23 00:11:33.880: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:11:33.881: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:11:33.881: Response: csreturned for keydegree.
+2024/02/23 00:11:33.881: cs
+2024/02/23 00:11:33.881: Sending to client: cs
+2024/02/23 00:11:33.882: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:11:33.882: Response: Key, degree, successfully removed from store.
+2024/02/23 00:11:33.882: Key successfully removed from store.
+2024/02/23 00:11:33.882: Sending to client: Key successfully removed from store.
+2024/02/23 00:11:33.882: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:11:33.882: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:11:33.883: New value for key, industry, added: ecommerce
+2024/02/23 00:11:33.883: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:11:33.884: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:11:33.884: Response: ecommercereturned for keyindustry.
+2024/02/23 00:11:33.884: ecommerce
+2024/02/23 00:11:33.884: Sending to client: ecommerce
+2024/02/23 00:11:33.884: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:11:33.884: Response: Key, industry, successfully removed from store.
+2024/02/23 00:11:33.885: Key successfully removed from store.
+2024/02/23 00:11:33.885: Sending to client: Key successfully removed from store.
+2024/02/23 00:11:33.885: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:11:33.885: Response: New value for key, location, added: boston
+2024/02/23 00:11:33.885: New value for key, location, added: boston
+2024/02/23 00:11:33.885: Sending to client: New value for key, location, added: boston
+2024/02/23 00:11:33.886: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:11:33.886: Response: bostonreturned for keylocation.
+2024/02/23 00:11:33.886: boston
+2024/02/23 00:11:33.886: Sending to client: boston
+2024/02/23 00:11:33.887: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:11:33.887: Response: Key, location, successfully removed from store.
+2024/02/23 00:11:33.887: Key successfully removed from store.
+2024/02/23 00:11:33.887: Sending to client: Key successfully removed from store.
+2024/02/23 00:11:33.887: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:11:33.887: Response: New value for key, job, added: analyst
+2024/02/23 00:11:33.887: New value for key, job, added: analyst
+2024/02/23 00:11:33.888: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:11:33.888: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:11:33.888: Response: analystreturned for keyjob.
+2024/02/23 00:11:33.888: analyst
+2024/02/23 00:11:33.888: Sending to client: analyst
+2024/02/23 00:11:33.889: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:11:33.889: Response: Key, job, successfully removed from store.
+2024/02/23 00:11:33.889: Key successfully removed from store.
+2024/02/23 00:11:33.889: Sending to client: Key successfully removed from store.
+2024/02/23 00:11:52.665: Quit requested. Server shutting down.
+2024/02/23 00:11:52.666: Quit requested. Server shutting down.
+2024/02/23 00:11:52.666: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:15:51.537: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:15:51.539: Response: New value for key, class, added: cs6650
+2024/02/23 00:15:51.539: New value for key, class, added: cs6650
+2024/02/23 00:15:51.539: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:15:51.541: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:15:51.541: Response: New value for key, semester, added: spring2024
+2024/02/23 00:15:51.541: New value for key, semester, added: spring2024
+2024/02/23 00:15:51.541: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:15:51.541: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:15:51.542: Response: New value for key, professor, added: saripalli
+2024/02/23 00:15:51.542: New value for key, professor, added: saripalli
+2024/02/23 00:15:51.542: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:15:51.542: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:15:51.542: Response: New value for key, program, added: mscs
+2024/02/23 00:15:51.543: New value for key, program, added: mscs
+2024/02/23 00:15:51.543: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:15:51.543: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:15:51.543: Response: New value for key, university, added: northeastern
+2024/02/23 00:15:51.543: New value for key, university, added: northeastern
+2024/02/23 00:15:51.543: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:15:51.544: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:15:51.544: Response: New value for key, name, added: dominic
+2024/02/23 00:15:51.544: New value for key, name, added: dominic
+2024/02/23 00:15:51.544: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:15:51.545: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:15:51.545: Response: dominicreturned for keyname.
+2024/02/23 00:15:51.545: dominic
+2024/02/23 00:15:51.545: Sending to client: dominic
+2024/02/23 00:15:51.546: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:15:51.547: Response: Key, name, successfully removed from store.
+2024/02/23 00:15:51.547: Key successfully removed from store.
+2024/02/23 00:15:51.548: Sending to client: Key successfully removed from store.
+2024/02/23 00:15:51.548: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:15:51.548: Response: New value for key, degree, added: cs
+2024/02/23 00:15:51.548: New value for key, degree, added: cs
+2024/02/23 00:15:51.548: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:15:51.549: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:15:51.549: Response: csreturned for keydegree.
+2024/02/23 00:15:51.549: cs
+2024/02/23 00:15:51.549: Sending to client: cs
+2024/02/23 00:15:51.550: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:15:51.550: Response: Key, degree, successfully removed from store.
+2024/02/23 00:15:51.550: Key successfully removed from store.
+2024/02/23 00:15:51.550: Sending to client: Key successfully removed from store.
+2024/02/23 00:15:51.550: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:15:51.551: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:15:51.551: New value for key, industry, added: ecommerce
+2024/02/23 00:15:51.551: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:15:51.551: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:15:51.551: Response: ecommercereturned for keyindustry.
+2024/02/23 00:15:51.552: ecommerce
+2024/02/23 00:15:51.552: Sending to client: ecommerce
+2024/02/23 00:15:51.552: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:15:51.552: Response: Key, industry, successfully removed from store.
+2024/02/23 00:15:51.552: Key successfully removed from store.
+2024/02/23 00:15:51.552: Sending to client: Key successfully removed from store.
+2024/02/23 00:15:51.553: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:15:51.553: Response: New value for key, location, added: boston
+2024/02/23 00:15:51.553: New value for key, location, added: boston
+2024/02/23 00:15:51.553: Sending to client: New value for key, location, added: boston
+2024/02/23 00:15:51.554: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:15:51.554: Response: bostonreturned for keylocation.
+2024/02/23 00:15:51.554: boston
+2024/02/23 00:15:51.554: Sending to client: boston
+2024/02/23 00:15:51.554: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:15:51.555: Response: Key, location, successfully removed from store.
+2024/02/23 00:15:51.555: Key successfully removed from store.
+2024/02/23 00:15:51.555: Sending to client: Key successfully removed from store.
+2024/02/23 00:15:51.556: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:15:51.556: Response: New value for key, job, added: analyst
+2024/02/23 00:15:51.556: New value for key, job, added: analyst
+2024/02/23 00:15:51.556: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:15:51.556: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:15:51.556: Response: analystreturned for keyjob.
+2024/02/23 00:15:51.557: analyst
+2024/02/23 00:15:51.557: Sending to client: analyst
+2024/02/23 00:15:51.557: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:15:51.557: Response: Key, job, successfully removed from store.
+2024/02/23 00:15:51.557: Key successfully removed from store.
+2024/02/23 00:15:51.557: Sending to client: Key successfully removed from store.
+2024/02/23 00:16:02.855: Quit requested. Server shutting down.
+2024/02/23 00:16:02.856: Quit requested. Server shutting down.
+2024/02/23 00:16:02.857: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:18:30.092: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 00:18:30.103: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 00:18:30.103: Response: New value for key, class, added: cs6650
+2024/02/23 00:18:30.104: New value for key, class, added: cs6650
+2024/02/23 00:18:30.104: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:18:30.105: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 00:18:30.105: Response: New value for key, semester, added: spring2024
+2024/02/23 00:18:30.105: New value for key, semester, added: spring2024
+2024/02/23 00:18:30.105: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:18:30.106: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 00:18:30.106: Response: New value for key, professor, added: saripalli
+2024/02/23 00:18:30.106: New value for key, professor, added: saripalli
+2024/02/23 00:18:30.106: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:18:30.107: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 00:18:30.107: Response: New value for key, program, added: mscs
+2024/02/23 00:18:30.107: New value for key, program, added: mscs
+2024/02/23 00:18:30.107: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:18:30.108: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 00:18:30.108: Response: New value for key, university, added: northeastern
+2024/02/23 00:18:30.108: New value for key, university, added: northeastern
+2024/02/23 00:18:30.108: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:18:30.108: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:18:30.109: Response: New value for key, name, added: dominic
+2024/02/23 00:18:30.109: New value for key, name, added: dominic
+2024/02/23 00:18:30.109: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:18:30.109: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:18:30.110: Response: dominicreturned for keyname.
+2024/02/23 00:18:30.110: dominic
+2024/02/23 00:18:30.110: Sending to client: dominic
+2024/02/23 00:18:30.110: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:18:30.111: Response: Key, name, successfully removed from store.
+2024/02/23 00:18:30.111: Key successfully removed from store.
+2024/02/23 00:18:30.111: Sending to client: Key successfully removed from store.
+2024/02/23 00:18:30.111: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:18:30.111: Response: New value for key, degree, added: cs
+2024/02/23 00:18:30.111: New value for key, degree, added: cs
+2024/02/23 00:18:30.112: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:18:30.112: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:18:30.112: Response: csreturned for keydegree.
+2024/02/23 00:18:30.112: cs
+2024/02/23 00:18:30.112: Sending to client: cs
+2024/02/23 00:18:30.113: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:18:30.113: Response: Key, degree, successfully removed from store.
+2024/02/23 00:18:30.113: Key successfully removed from store.
+2024/02/23 00:18:30.113: Sending to client: Key successfully removed from store.
+2024/02/23 00:18:30.113: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:18:30.113: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:18:30.113: New value for key, industry, added: ecommerce
+2024/02/23 00:18:30.114: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:18:30.114: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:18:30.114: Response: ecommercereturned for keyindustry.
+2024/02/23 00:18:30.114: ecommerce
+2024/02/23 00:18:30.114: Sending to client: ecommerce
+2024/02/23 00:18:30.115: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:18:30.115: Response: Key, industry, successfully removed from store.
+2024/02/23 00:18:30.115: Key successfully removed from store.
+2024/02/23 00:18:30.115: Sending to client: Key successfully removed from store.
+2024/02/23 00:18:30.115: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:18:30.115: Response: New value for key, location, added: boston
+2024/02/23 00:18:30.116: New value for key, location, added: boston
+2024/02/23 00:18:30.116: Sending to client: New value for key, location, added: boston
+2024/02/23 00:18:30.116: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:18:30.116: Response: bostonreturned for keylocation.
+2024/02/23 00:18:30.116: boston
+2024/02/23 00:18:30.116: Sending to client: boston
+2024/02/23 00:18:30.117: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:18:30.117: Response: Key, location, successfully removed from store.
+2024/02/23 00:18:30.117: Key successfully removed from store.
+2024/02/23 00:18:30.117: Sending to client: Key successfully removed from store.
+2024/02/23 00:18:30.117: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:18:30.118: Response: New value for key, job, added: analyst
+2024/02/23 00:18:30.118: New value for key, job, added: analyst
+2024/02/23 00:18:30.118: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:18:30.118: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:18:30.118: Response: analystreturned for keyjob.
+2024/02/23 00:18:30.118: analyst
+2024/02/23 00:18:30.118: Sending to client: analyst
+2024/02/23 00:18:30.119: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:18:30.119: Response: Key, job, successfully removed from store.
+2024/02/23 00:18:30.119: Key successfully removed from store.
+2024/02/23 00:18:30.119: Sending to client: Key successfully removed from store.
+2024/02/23 00:18:39.370: Quit requested. Server shutting down.
+2024/02/23 00:18:39.371: Quit requested. Server shutting down.
+2024/02/23 00:18:39.371: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:26:34.046: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 00:26:34.057: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 00:26:34.057: Response: New value for key, class, added: cs6650
+2024/02/23 00:26:34.057: New value for key, class, added: cs6650
+2024/02/23 00:26:34.057: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:26:34.059: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 00:26:34.059: Response: New value for key, semester, added: spring2024
+2024/02/23 00:26:34.059: New value for key, semester, added: spring2024
+2024/02/23 00:26:34.059: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:26:34.060: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 00:26:34.060: Response: New value for key, professor, added: saripalli
+2024/02/23 00:26:34.060: New value for key, professor, added: saripalli
+2024/02/23 00:26:34.060: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:26:34.061: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 00:26:34.061: Response: New value for key, program, added: mscs
+2024/02/23 00:26:34.061: New value for key, program, added: mscs
+2024/02/23 00:26:34.061: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:26:34.061: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 00:26:34.062: Response: New value for key, university, added: northeastern
+2024/02/23 00:26:34.062: New value for key, university, added: northeastern
+2024/02/23 00:26:34.062: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:26:34.062: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:26:34.063: Response: New value for key, name, added: dominic
+2024/02/23 00:26:34.063: New value for key, name, added: dominic
+2024/02/23 00:26:34.063: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:26:34.063: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:26:34.063: Response: dominicreturned for keyname.
+2024/02/23 00:26:34.064: dominic
+2024/02/23 00:26:34.064: Sending to client: dominic
+2024/02/23 00:26:34.064: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:26:34.064: Response: Key, name, successfully removed from store.
+2024/02/23 00:26:34.064: Key successfully removed from store.
+2024/02/23 00:26:34.065: Sending to client: Key successfully removed from store.
+2024/02/23 00:26:34.065: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:26:34.065: Response: New value for key, degree, added: cs
+2024/02/23 00:26:34.065: New value for key, degree, added: cs
+2024/02/23 00:26:34.065: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:26:34.066: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:26:34.066: Response: csreturned for keydegree.
+2024/02/23 00:26:34.066: cs
+2024/02/23 00:26:34.066: Sending to client: cs
+2024/02/23 00:26:34.067: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:26:34.067: Response: Key, degree, successfully removed from store.
+2024/02/23 00:26:34.067: Key successfully removed from store.
+2024/02/23 00:26:34.067: Sending to client: Key successfully removed from store.
+2024/02/23 00:26:34.068: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:26:34.068: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:26:34.068: New value for key, industry, added: ecommerce
+2024/02/23 00:26:34.068: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:26:34.069: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:26:34.069: Response: ecommercereturned for keyindustry.
+2024/02/23 00:26:34.069: ecommerce
+2024/02/23 00:26:34.069: Sending to client: ecommerce
+2024/02/23 00:26:34.070: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:26:34.070: Response: Key, industry, successfully removed from store.
+2024/02/23 00:26:34.070: Key successfully removed from store.
+2024/02/23 00:26:34.070: Sending to client: Key successfully removed from store.
+2024/02/23 00:26:34.070: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:26:34.070: Response: New value for key, location, added: boston
+2024/02/23 00:26:34.070: New value for key, location, added: boston
+2024/02/23 00:26:34.071: Sending to client: New value for key, location, added: boston
+2024/02/23 00:26:34.071: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:26:34.071: Response: bostonreturned for keylocation.
+2024/02/23 00:26:34.071: boston
+2024/02/23 00:26:34.071: Sending to client: boston
+2024/02/23 00:26:34.072: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:26:34.072: Response: Key, location, successfully removed from store.
+2024/02/23 00:26:34.072: Key successfully removed from store.
+2024/02/23 00:26:34.072: Sending to client: Key successfully removed from store.
+2024/02/23 00:26:34.072: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:26:34.072: Response: New value for key, job, added: analyst
+2024/02/23 00:26:34.073: New value for key, job, added: analyst
+2024/02/23 00:26:34.073: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:26:34.073: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:26:34.073: Response: analystreturned for keyjob.
+2024/02/23 00:26:34.073: analyst
+2024/02/23 00:26:34.073: Sending to client: analyst
+2024/02/23 00:26:34.074: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:26:34.074: Response: Key, job, successfully removed from store.
+2024/02/23 00:26:34.074: Key successfully removed from store.
+2024/02/23 00:26:34.074: Sending to client: Key successfully removed from store.
+2024/02/23 00:26:46.263: Quit requested. Server shutting down.
+2024/02/23 00:26:46.263: Quit requested. Server shutting down.
+2024/02/23 00:26:46.263: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:27:47.604: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 00:27:47.616: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 00:27:47.617: Response: New value for key, class, added: cs6650
+2024/02/23 00:27:47.617: New value for key, class, added: cs6650
+2024/02/23 00:27:47.617: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:27:47.618: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 00:27:47.619: Response: New value for key, semester, added: spring2024
+2024/02/23 00:27:47.619: New value for key, semester, added: spring2024
+2024/02/23 00:27:47.619: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:27:47.619: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 00:27:47.619: Response: New value for key, professor, added: saripalli
+2024/02/23 00:27:47.620: New value for key, professor, added: saripalli
+2024/02/23 00:27:47.620: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:27:47.620: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 00:27:47.620: Response: New value for key, program, added: mscs
+2024/02/23 00:27:47.620: New value for key, program, added: mscs
+2024/02/23 00:27:47.621: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:27:47.621: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 00:27:47.621: Response: New value for key, university, added: northeastern
+2024/02/23 00:27:47.621: New value for key, university, added: northeastern
+2024/02/23 00:27:47.622: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:27:47.622: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:27:47.622: Response: New value for key, name, added: dominic
+2024/02/23 00:27:47.622: New value for key, name, added: dominic
+2024/02/23 00:27:47.623: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:27:47.623: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:27:47.624: Response: dominicreturned for keyname.
+2024/02/23 00:27:47.624: dominic
+2024/02/23 00:27:47.624: Sending to client: dominic
+2024/02/23 00:27:47.624: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 00:27:47.624: Response: Key, name, successfully removed from store.
+2024/02/23 00:27:47.625: Key successfully removed from store.
+2024/02/23 00:27:47.625: Sending to client: Key successfully removed from store.
+2024/02/23 00:27:47.625: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:27:47.625: Response: New value for key, degree, added: cs
+2024/02/23 00:27:47.625: New value for key, degree, added: cs
+2024/02/23 00:27:47.626: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:27:47.626: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:27:47.626: Response: csreturned for keydegree.
+2024/02/23 00:27:47.626: cs
+2024/02/23 00:27:47.626: Sending to client: cs
+2024/02/23 00:27:47.627: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 00:27:47.627: Response: Key, degree, successfully removed from store.
+2024/02/23 00:27:47.627: Key successfully removed from store.
+2024/02/23 00:27:47.627: Sending to client: Key successfully removed from store.
+2024/02/23 00:27:47.628: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:27:47.628: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:27:47.628: New value for key, industry, added: ecommerce
+2024/02/23 00:27:47.628: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:27:47.629: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:27:47.629: Response: ecommercereturned for keyindustry.
+2024/02/23 00:27:47.629: ecommerce
+2024/02/23 00:27:47.629: Sending to client: ecommerce
+2024/02/23 00:27:47.630: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 00:27:47.630: Response: Key, industry, successfully removed from store.
+2024/02/23 00:27:47.630: Key successfully removed from store.
+2024/02/23 00:27:47.630: Sending to client: Key successfully removed from store.
+2024/02/23 00:27:47.630: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:27:47.630: Response: New value for key, location, added: boston
+2024/02/23 00:27:47.630: New value for key, location, added: boston
+2024/02/23 00:27:47.631: Sending to client: New value for key, location, added: boston
+2024/02/23 00:27:47.631: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:27:47.631: Response: bostonreturned for keylocation.
+2024/02/23 00:27:47.631: boston
+2024/02/23 00:27:47.631: Sending to client: boston
+2024/02/23 00:27:47.632: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 00:27:47.632: Response: Key, location, successfully removed from store.
+2024/02/23 00:27:47.632: Key successfully removed from store.
+2024/02/23 00:27:47.632: Sending to client: Key successfully removed from store.
+2024/02/23 00:27:47.632: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:27:47.633: Response: New value for key, job, added: analyst
+2024/02/23 00:27:47.633: New value for key, job, added: analyst
+2024/02/23 00:27:47.633: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:27:47.633: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:27:47.633: Response: analystreturned for keyjob.
+2024/02/23 00:27:47.633: analyst
+2024/02/23 00:27:47.633: Sending to client: analyst
+2024/02/23 00:27:47.634: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 00:27:47.634: Response: Key, job, successfully removed from store.
+2024/02/23 00:27:47.634: Key successfully removed from store.
+2024/02/23 00:27:47.634: Sending to client: Key successfully removed from store.
+2024/02/23 00:28:42.771: Quit requested. Server shutting down.
+2024/02/23 00:28:42.771: Quit requested. Server shutting down.
+2024/02/23 00:28:42.772: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:31:03.748: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:31:03.750: Response: New value for key, class, added: cs6650
+2024/02/23 00:31:03.750: New value for key, class, added: cs6650
+2024/02/23 00:31:03.750: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:31:03.752: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:31:03.752: Response: New value for key, semester, added: spring2024
+2024/02/23 00:31:03.752: New value for key, semester, added: spring2024
+2024/02/23 00:31:03.752: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:31:03.753: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:31:03.753: Response: New value for key, professor, added: saripalli
+2024/02/23 00:31:03.753: New value for key, professor, added: saripalli
+2024/02/23 00:31:03.753: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:31:03.754: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:31:03.754: Response: New value for key, program, added: mscs
+2024/02/23 00:31:03.754: New value for key, program, added: mscs
+2024/02/23 00:31:03.754: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:31:03.755: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:31:03.755: Response: New value for key, university, added: northeastern
+2024/02/23 00:31:03.755: New value for key, university, added: northeastern
+2024/02/23 00:31:03.755: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:31:03.756: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:31:03.756: Response: New value for key, name, added: dominic
+2024/02/23 00:31:03.756: New value for key, name, added: dominic
+2024/02/23 00:31:03.756: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:31:03.756: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:31:03.757: Response: dominicreturned for keyname.
+2024/02/23 00:31:03.757: dominic
+2024/02/23 00:31:03.757: Sending to client: dominic
+2024/02/23 00:31:03.757: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:31:03.759: Response: Key, name, successfully removed from store.
+2024/02/23 00:31:03.759: Key successfully removed from store.
+2024/02/23 00:31:03.759: Sending to client: Key successfully removed from store.
+2024/02/23 00:31:03.759: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:31:03.759: Response: New value for key, degree, added: cs
+2024/02/23 00:31:03.760: New value for key, degree, added: cs
+2024/02/23 00:31:03.760: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:31:03.760: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:31:03.760: Response: csreturned for keydegree.
+2024/02/23 00:31:03.761: cs
+2024/02/23 00:31:03.761: Sending to client: cs
+2024/02/23 00:31:03.761: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:31:03.761: Response: Key, degree, successfully removed from store.
+2024/02/23 00:31:03.761: Key successfully removed from store.
+2024/02/23 00:31:03.761: Sending to client: Key successfully removed from store.
+2024/02/23 00:31:03.762: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:31:03.762: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:31:03.762: New value for key, industry, added: ecommerce
+2024/02/23 00:31:03.762: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:31:03.763: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:31:03.763: Response: ecommercereturned for keyindustry.
+2024/02/23 00:31:03.763: ecommerce
+2024/02/23 00:31:03.763: Sending to client: ecommerce
+2024/02/23 00:31:03.764: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:31:03.764: Response: Key, industry, successfully removed from store.
+2024/02/23 00:31:03.764: Key successfully removed from store.
+2024/02/23 00:31:03.764: Sending to client: Key successfully removed from store.
+2024/02/23 00:31:03.764: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:31:03.764: Response: New value for key, location, added: boston
+2024/02/23 00:31:03.764: New value for key, location, added: boston
+2024/02/23 00:31:03.765: Sending to client: New value for key, location, added: boston
+2024/02/23 00:31:03.765: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:31:03.765: Response: bostonreturned for keylocation.
+2024/02/23 00:31:03.765: boston
+2024/02/23 00:31:03.765: Sending to client: boston
+2024/02/23 00:31:03.766: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:31:03.766: Response: Key, location, successfully removed from store.
+2024/02/23 00:31:03.766: Key successfully removed from store.
+2024/02/23 00:31:03.766: Sending to client: Key successfully removed from store.
+2024/02/23 00:31:03.767: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:31:03.767: Response: New value for key, job, added: analyst
+2024/02/23 00:31:03.767: New value for key, job, added: analyst
+2024/02/23 00:31:03.767: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:31:03.767: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:31:03.767: Response: analystreturned for keyjob.
+2024/02/23 00:31:03.768: analyst
+2024/02/23 00:31:03.768: Sending to client: analyst
+2024/02/23 00:31:03.768: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:31:03.768: Response: Key, job, successfully removed from store.
+2024/02/23 00:31:03.768: Key successfully removed from store.
+2024/02/23 00:31:03.768: Sending to client: Key successfully removed from store.
+2024/02/23 00:31:47.579: Quit requested. Server shutting down.
+2024/02/23 00:31:47.579: Quit requested. Server shutting down.
+2024/02/23 00:31:47.579: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:42:52.006: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:42:52.008: Response: New value for key, class, added: cs6650
+2024/02/23 00:42:52.008: New value for key, class, added: cs6650
+2024/02/23 00:42:52.009: Sending to client: New value for key, class, added: cs6650
+2024/02/23 00:42:52.012: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:42:52.012: Response: New value for key, semester, added: spring2024
+2024/02/23 00:42:52.012: New value for key, semester, added: spring2024
+2024/02/23 00:42:52.012: Sending to client: New value for key, semester, added: spring2024
+2024/02/23 00:42:52.013: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:42:52.013: Response: New value for key, professor, added: saripalli
+2024/02/23 00:42:52.013: New value for key, professor, added: saripalli
+2024/02/23 00:42:52.013: Sending to client: New value for key, professor, added: saripalli
+2024/02/23 00:42:52.014: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:42:52.014: Response: New value for key, program, added: mscs
+2024/02/23 00:42:52.014: New value for key, program, added: mscs
+2024/02/23 00:42:52.014: Sending to client: New value for key, program, added: mscs
+2024/02/23 00:42:52.015: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:42:52.015: Response: New value for key, university, added: northeastern
+2024/02/23 00:42:52.015: New value for key, university, added: northeastern
+2024/02/23 00:42:52.015: Sending to client: New value for key, university, added: northeastern
+2024/02/23 00:42:52.015: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:42:52.016: Response: New value for key, name, added: dominic
+2024/02/23 00:42:52.016: New value for key, name, added: dominic
+2024/02/23 00:42:52.016: Sending to client: New value for key, name, added: dominic
+2024/02/23 00:42:52.016: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:42:52.017: Response: dominicreturned for keyname.
+2024/02/23 00:42:52.017: dominic
+2024/02/23 00:42:52.017: Sending to client: dominic
+2024/02/23 00:42:52.017: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:42:52.019: Response: Key, name, successfully removed from store.
+2024/02/23 00:42:52.019: Key successfully removed from store.
+2024/02/23 00:42:52.019: Sending to client: Key successfully removed from store.
+2024/02/23 00:42:52.019: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:42:52.019: Response: New value for key, degree, added: cs
+2024/02/23 00:42:52.019: New value for key, degree, added: cs
+2024/02/23 00:42:52.020: Sending to client: New value for key, degree, added: cs
+2024/02/23 00:42:52.020: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:42:52.020: Response: csreturned for keydegree.
+2024/02/23 00:42:52.020: cs
+2024/02/23 00:42:52.020: Sending to client: cs
+2024/02/23 00:42:52.021: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:42:52.021: Response: Key, degree, successfully removed from store.
+2024/02/23 00:42:52.021: Key successfully removed from store.
+2024/02/23 00:42:52.021: Sending to client: Key successfully removed from store.
+2024/02/23 00:42:52.022: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:42:52.022: Response: New value for key, industry, added: ecommerce
+2024/02/23 00:42:52.022: New value for key, industry, added: ecommerce
+2024/02/23 00:42:52.022: Sending to client: New value for key, industry, added: ecommerce
+2024/02/23 00:42:52.022: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:42:52.022: Response: ecommercereturned for keyindustry.
+2024/02/23 00:42:52.023: ecommerce
+2024/02/23 00:42:52.023: Sending to client: ecommerce
+2024/02/23 00:42:52.024: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:42:52.024: Response: Key, industry, successfully removed from store.
+2024/02/23 00:42:52.024: Key successfully removed from store.
+2024/02/23 00:42:52.024: Sending to client: Key successfully removed from store.
+2024/02/23 00:42:52.024: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:42:52.024: Response: New value for key, location, added: boston
+2024/02/23 00:42:52.025: New value for key, location, added: boston
+2024/02/23 00:42:52.025: Sending to client: New value for key, location, added: boston
+2024/02/23 00:42:52.025: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:42:52.025: Response: bostonreturned for keylocation.
+2024/02/23 00:42:52.025: boston
+2024/02/23 00:42:52.025: Sending to client: boston
+2024/02/23 00:42:52.026: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:42:52.026: Response: Key, location, successfully removed from store.
+2024/02/23 00:42:52.026: Key successfully removed from store.
+2024/02/23 00:42:52.026: Sending to client: Key successfully removed from store.
+2024/02/23 00:42:52.027: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:42:52.027: Response: New value for key, job, added: analyst
+2024/02/23 00:42:52.027: New value for key, job, added: analyst
+2024/02/23 00:42:52.027: Sending to client: New value for key, job, added: analyst
+2024/02/23 00:42:52.028: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:42:52.028: Response: analystreturned for keyjob.
+2024/02/23 00:42:52.028: analyst
+2024/02/23 00:42:52.028: Sending to client: analyst
+2024/02/23 00:42:52.029: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:42:52.029: Response: Key, job, successfully removed from store.
+2024/02/23 00:42:52.029: Key successfully removed from store.
+2024/02/23 00:42:52.029: Sending to client: Key successfully removed from store.
+2024/02/23 00:43:31.226: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:43:31.226: Response: New value for key, name, added: dom
+2024/02/23 00:43:31.227: New value for key, name, added: dom
+2024/02/23 00:43:31.227: Sending to client: New value for key, name, added: dom
+2024/02/23 00:43:47.526: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:43:47.526: Response: domreturned for keyname.
+2024/02/23 00:43:47.527: dom
+2024/02/23 00:43:47.527: Sending to client: dom
+2024/02/23 00:43:53.576: Quit requested. Server shutting down.
+2024/02/23 00:43:53.576: Quit requested. Server shutting down.
+2024/02/23 00:43:53.577: Sending to client: Quit requested. Server shutting down.
+2024/02/23 00:45:08.885: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 00:45:08.887: Response: New value for key, class, added -> cs6650
+2024/02/23 00:45:08.888: New value for key, class, added -> cs6650
+2024/02/23 00:45:08.888: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 00:45:08.891: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 00:45:08.891: Response: New value for key, semester, added -> spring2024
+2024/02/23 00:45:08.891: New value for key, semester, added -> spring2024
+2024/02/23 00:45:08.891: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 00:45:08.892: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 00:45:08.892: Response: New value for key, professor, added -> saripalli
+2024/02/23 00:45:08.892: New value for key, professor, added -> saripalli
+2024/02/23 00:45:08.892: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 00:45:08.893: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 00:45:08.893: Response: New value for key, program, added -> mscs
+2024/02/23 00:45:08.893: New value for key, program, added -> mscs
+2024/02/23 00:45:08.893: Sending to client: New value for key, program, added -> mscs
+2024/02/23 00:45:08.894: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 00:45:08.894: Response: New value for key, university, added -> northeastern
+2024/02/23 00:45:08.894: New value for key, university, added -> northeastern
+2024/02/23 00:45:08.894: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 00:45:08.894: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:45:08.894: Response: New value for key, name, added -> dominic
+2024/02/23 00:45:08.895: New value for key, name, added -> dominic
+2024/02/23 00:45:08.895: Sending to client: New value for key, name, added -> dominic
+2024/02/23 00:45:08.895: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:45:08.895: Response: dominic returned for key name.
+2024/02/23 00:45:08.895: dominic
+2024/02/23 00:45:08.896: Sending to client: dominic
+2024/02/23 00:45:08.896: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 00:45:08.897: Response: Key, name, successfully removed from store.
+2024/02/23 00:45:08.897: Key successfully removed from store.
+2024/02/23 00:45:08.897: Sending to client: Key successfully removed from store.
+2024/02/23 00:45:08.898: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:45:08.898: Response: New value for key, degree, added -> cs
+2024/02/23 00:45:08.898: New value for key, degree, added -> cs
+2024/02/23 00:45:08.898: Sending to client: New value for key, degree, added -> cs
+2024/02/23 00:45:08.899: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:45:08.899: Response: cs returned for key degree.
+2024/02/23 00:45:08.899: cs
+2024/02/23 00:45:08.899: Sending to client: cs
+2024/02/23 00:45:08.899: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 00:45:08.900: Response: Key, degree, successfully removed from store.
+2024/02/23 00:45:08.900: Key successfully removed from store.
+2024/02/23 00:45:08.900: Sending to client: Key successfully removed from store.
+2024/02/23 00:45:08.900: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:45:08.900: Response: New value for key, industry, added -> ecommerce
+2024/02/23 00:45:08.900: New value for key, industry, added -> ecommerce
+2024/02/23 00:45:08.900: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 00:45:08.901: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:45:08.901: Response: ecommerce returned for key industry.
+2024/02/23 00:45:08.902: ecommerce
+2024/02/23 00:45:08.902: Sending to client: ecommerce
+2024/02/23 00:45:08.902: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 00:45:08.902: Response: Key, industry, successfully removed from store.
+2024/02/23 00:45:08.902: Key successfully removed from store.
+2024/02/23 00:45:08.902: Sending to client: Key successfully removed from store.
+2024/02/23 00:45:08.903: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:45:08.903: Response: New value for key, location, added -> boston
+2024/02/23 00:45:08.903: New value for key, location, added -> boston
+2024/02/23 00:45:08.903: Sending to client: New value for key, location, added -> boston
+2024/02/23 00:45:08.903: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:45:08.904: Response: boston returned for key location.
+2024/02/23 00:45:08.904: boston
+2024/02/23 00:45:08.904: Sending to client: boston
+2024/02/23 00:45:08.904: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 00:45:08.904: Response: Key, location, successfully removed from store.
+2024/02/23 00:45:08.904: Key successfully removed from store.
+2024/02/23 00:45:08.904: Sending to client: Key successfully removed from store.
+2024/02/23 00:45:08.905: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:45:08.905: Response: New value for key, job, added -> analyst
+2024/02/23 00:45:08.905: New value for key, job, added -> analyst
+2024/02/23 00:45:08.905: Sending to client: New value for key, job, added -> analyst
+2024/02/23 00:45:08.906: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:45:08.906: Response: analyst returned for key job.
+2024/02/23 00:45:08.906: analyst
+2024/02/23 00:45:08.906: Sending to client: analyst
+2024/02/23 00:45:08.906: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 00:45:08.906: Response: Key, job, successfully removed from store.
+2024/02/23 00:45:08.906: Key successfully removed from store.
+2024/02/23 00:45:08.907: Sending to client: Key successfully removed from store.
+2024/02/23 00:46:07.054: Quit requested. Server shutting down.
+2024/02/23 00:46:07.109: Quit requested. Server shutting down.
+2024/02/23 00:46:07.110: Sending to client: Quit requested. Server shutting down.
+2024/02/23 01:10:40.012: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 01:10:40.014: Response: New value for key, class, added -> cs6650
+2024/02/23 01:10:40.014: New value for key, class, added -> cs6650
+2024/02/23 01:10:40.014: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 01:10:40.015: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 01:10:40.015: Response: New value for key, semester, added -> spring2024
+2024/02/23 01:10:40.015: New value for key, semester, added -> spring2024
+2024/02/23 01:10:40.016: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 01:10:40.016: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 01:10:40.016: Response: New value for key, professor, added -> saripalli
+2024/02/23 01:10:40.016: New value for key, professor, added -> saripalli
+2024/02/23 01:10:40.016: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 01:10:40.017: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 01:10:40.017: Response: New value for key, program, added -> mscs
+2024/02/23 01:10:40.017: New value for key, program, added -> mscs
+2024/02/23 01:10:40.017: Sending to client: New value for key, program, added -> mscs
+2024/02/23 01:10:40.017: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 01:10:40.018: Response: New value for key, university, added -> northeastern
+2024/02/23 01:10:40.018: New value for key, university, added -> northeastern
+2024/02/23 01:10:40.018: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 01:10:40.018: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 01:10:40.018: Response: New value for key, name, added -> dominic
+2024/02/23 01:10:40.018: New value for key, name, added -> dominic
+2024/02/23 01:10:40.019: Sending to client: New value for key, name, added -> dominic
+2024/02/23 01:10:40.019: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 01:10:40.019: Response: dominic returned for key name.
+2024/02/23 01:10:40.019: dominic
+2024/02/23 01:10:40.020: Sending to client: dominic
+2024/02/23 01:10:40.020: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 01:10:40.021: Response: Key, name, successfully removed from store.
+2024/02/23 01:10:40.021: Key successfully removed from store.
+2024/02/23 01:10:40.022: Sending to client: Key successfully removed from store.
+2024/02/23 01:10:40.022: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 01:10:40.022: Response: New value for key, degree, added -> cs
+2024/02/23 01:10:40.022: New value for key, degree, added -> cs
+2024/02/23 01:10:40.022: Sending to client: New value for key, degree, added -> cs
+2024/02/23 01:10:40.023: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 01:10:40.023: Response: cs returned for key degree.
+2024/02/23 01:10:40.023: cs
+2024/02/23 01:10:40.023: Sending to client: cs
+2024/02/23 01:10:40.023: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 01:10:40.024: Response: Key, degree, successfully removed from store.
+2024/02/23 01:10:40.024: Key successfully removed from store.
+2024/02/23 01:10:40.024: Sending to client: Key successfully removed from store.
+2024/02/23 01:10:40.024: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 01:10:40.024: Response: New value for key, industry, added -> ecommerce
+2024/02/23 01:10:40.024: New value for key, industry, added -> ecommerce
+2024/02/23 01:10:40.024: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 01:10:40.025: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 01:10:40.025: Response: ecommerce returned for key industry.
+2024/02/23 01:10:40.025: ecommerce
+2024/02/23 01:10:40.026: Sending to client: ecommerce
+2024/02/23 01:10:40.026: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 01:10:40.026: Response: Key, industry, successfully removed from store.
+2024/02/23 01:10:40.026: Key successfully removed from store.
+2024/02/23 01:10:40.026: Sending to client: Key successfully removed from store.
+2024/02/23 01:10:40.027: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 01:10:40.027: Response: New value for key, location, added -> boston
+2024/02/23 01:10:40.027: New value for key, location, added -> boston
+2024/02/23 01:10:40.027: Sending to client: New value for key, location, added -> boston
+2024/02/23 01:10:40.028: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 01:10:40.028: Response: boston returned for key location.
+2024/02/23 01:10:40.028: boston
+2024/02/23 01:10:40.028: Sending to client: boston
+2024/02/23 01:10:40.028: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 01:10:40.029: Response: Key, location, successfully removed from store.
+2024/02/23 01:10:40.029: Key successfully removed from store.
+2024/02/23 01:10:40.029: Sending to client: Key successfully removed from store.
+2024/02/23 01:10:40.029: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 01:10:40.029: Response: New value for key, job, added -> analyst
+2024/02/23 01:10:40.029: New value for key, job, added -> analyst
+2024/02/23 01:10:40.029: Sending to client: New value for key, job, added -> analyst
+2024/02/23 01:10:40.030: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 01:10:40.030: Response: analyst returned for key job.
+2024/02/23 01:10:40.030: analyst
+2024/02/23 01:10:40.030: Sending to client: analyst
+2024/02/23 01:10:40.030: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 01:10:40.031: Response: Key, job, successfully removed from store.
+2024/02/23 01:10:40.031: Key successfully removed from store.
+2024/02/23 01:10:40.031: Sending to client: Key successfully removed from store.
+2024/02/23 01:11:35.886: Received malformed request of length 16 from address null, port 0
+2024/02/23 01:11:35.887: Received malformed request of length 16from address null, port 0
+2024/02/23 01:11:35.887: Datagram packet malformed.
+2024/02/23 01:11:35.887: Sending to client: Datagram packet malformed.
+2024/02/23 01:11:57.216: Quit requested. Server shutting down.
+2024/02/23 01:11:57.217: Quit requested. Server shutting down.
+2024/02/23 01:11:57.218: Sending to client: Quit requested. Server shutting down.
+2024/02/23 08:34:36.376: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 08:34:36.378: Response: New value for key, class, added -> cs6650
+2024/02/23 08:34:36.378: New value for key, class, added -> cs6650
+2024/02/23 08:34:52.384: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 08:34:52.389: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 08:34:52.389: Response: New value for key, semester, added -> spring2024
+2024/02/23 08:34:52.390: New value for key, semester, added -> spring2024
+2024/02/23 08:35:08.394: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 08:35:08.398: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 08:35:08.399: Response: New value for key, professor, added -> saripalli
+2024/02/23 08:35:08.399: New value for key, professor, added -> saripalli
+2024/02/23 08:35:24.404: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 08:35:24.407: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 08:35:24.408: Response: New value for key, program, added -> mscs
+2024/02/23 08:35:24.409: New value for key, program, added -> mscs
+2024/02/23 08:35:40.413: Sending to client: New value for key, program, added -> mscs
+2024/02/23 08:35:40.417: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 08:35:40.418: Response: New value for key, university, added -> northeastern
+2024/02/23 08:35:40.418: New value for key, university, added -> northeastern
+2024/02/23 08:35:56.420: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 08:35:56.421: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:35:56.421: Response: New value for key, name, added -> dominic
+2024/02/23 08:35:56.422: New value for key, name, added -> dominic
+2024/02/23 08:36:12.421: Sending to client: New value for key, name, added -> dominic
+2024/02/23 08:36:12.425: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:36:12.427: Response: dominic returned for key name.
+2024/02/23 08:36:12.427: dominic
+2024/02/23 08:36:28.431: Sending to client: dominic
+2024/02/23 08:36:28.434: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:36:28.446: Response: Key, name, successfully removed from store.
+2024/02/23 08:36:28.447: Key successfully removed from store.
+2024/02/23 08:36:44.451: Sending to client: Key successfully removed from store.
+2024/02/23 08:36:44.454: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:36:44.455: Response: New value for key, degree, added -> cs
+2024/02/23 08:36:44.455: New value for key, degree, added -> cs
+2024/02/23 08:37:00.460: Sending to client: New value for key, degree, added -> cs
+2024/02/23 08:37:00.463: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:37:00.463: Response: cs returned for key degree.
+2024/02/23 08:37:00.467: cs
+2024/02/23 08:37:16.469: Sending to client: cs
+2024/02/23 08:37:16.472: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:37:16.473: Response: Key, degree, successfully removed from store.
+2024/02/23 08:37:16.473: Key successfully removed from store.
+2024/02/23 08:37:32.478: Sending to client: Key successfully removed from store.
+2024/02/23 08:37:32.481: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:37:32.481: Response: New value for key, industry, added -> ecommerce
+2024/02/23 08:37:32.482: New value for key, industry, added -> ecommerce
+2024/02/23 08:37:48.492: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 08:37:48.495: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:37:48.496: Response: ecommerce returned for key industry.
+2024/02/23 08:37:48.496: ecommerce
+2024/02/23 08:38:04.501: Sending to client: ecommerce
+2024/02/23 08:38:04.504: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:38:04.504: Response: Key, industry, successfully removed from store.
+2024/02/23 08:38:04.505: Key successfully removed from store.
+2024/02/23 08:38:20.509: Sending to client: Key successfully removed from store.
+2024/02/23 08:38:20.512: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:38:20.513: Response: New value for key, location, added -> boston
+2024/02/23 08:38:20.514: New value for key, location, added -> boston
+2024/02/23 08:38:36.518: Sending to client: New value for key, location, added -> boston
+2024/02/23 08:38:36.523: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:38:36.525: Response: boston returned for key location.
+2024/02/23 08:38:36.525: boston
+2024/02/23 08:38:52.529: Sending to client: boston
+2024/02/23 08:38:52.533: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:38:52.533: Response: Key, location, successfully removed from store.
+2024/02/23 08:38:52.534: Key successfully removed from store.
+2024/02/23 08:39:08.537: Sending to client: Key successfully removed from store.
+2024/02/23 08:39:08.540: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:39:08.540: Response: New value for key, job, added -> analyst
+2024/02/23 08:39:08.541: New value for key, job, added -> analyst
+2024/02/23 08:39:24.545: Sending to client: New value for key, job, added -> analyst
+2024/02/23 08:39:24.548: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:39:24.549: Response: analyst returned for key job.
+2024/02/23 08:39:24.550: analyst
+2024/02/23 08:39:40.553: Sending to client: analyst
+2024/02/23 08:39:40.554: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:39:40.555: Response: Key, job, successfully removed from store.
+2024/02/23 08:39:40.555: Key successfully removed from store.
+2024/02/23 08:39:56.558: Sending to client: Key successfully removed from store.
+2024/02/23 08:48:38.189: Quit requested. Server shutting down.
+2024/02/23 08:48:38.189: Quit requested. Server shutting down.
+2024/02/23 08:48:54.194: Sending to client: Quit requested. Server shutting down.
+2024/02/23 08:52:27.620: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 08:52:27.622: Response: New value for key, class, added -> cs6650
+2024/02/23 08:52:27.622: New value for key, class, added -> cs6650
+2024/02/23 08:52:32.628: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 08:52:32.634: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 08:52:32.635: Response: New value for key, semester, added -> spring2024
+2024/02/23 08:52:32.635: New value for key, semester, added -> spring2024
+2024/02/23 08:52:37.640: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 08:52:37.645: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 08:52:37.646: Response: New value for key, professor, added -> saripalli
+2024/02/23 08:52:37.646: New value for key, professor, added -> saripalli
+2024/02/23 08:52:42.649: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 08:52:42.652: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 08:52:42.652: Response: New value for key, program, added -> mscs
+2024/02/23 08:52:42.653: New value for key, program, added -> mscs
+2024/02/23 08:52:47.658: Sending to client: New value for key, program, added -> mscs
+2024/02/23 08:52:47.664: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 08:52:47.666: Response: New value for key, university, added -> northeastern
+2024/02/23 08:52:47.666: New value for key, university, added -> northeastern
+2024/02/23 08:52:52.671: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 08:52:52.674: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:52:52.674: Response: New value for key, name, added -> dominic
+2024/02/23 08:52:52.675: New value for key, name, added -> dominic
+2024/02/23 08:52:57.678: Sending to client: New value for key, name, added -> dominic
+2024/02/23 08:52:57.681: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:52:57.683: Response: dominic returned for key name.
+2024/02/23 08:52:57.684: dominic
+2024/02/23 08:53:02.690: Sending to client: dominic
+2024/02/23 08:53:02.693: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 08:53:02.700: Response: Key, name, successfully removed from store.
+2024/02/23 08:53:02.701: Key successfully removed from store.
+2024/02/23 08:53:07.706: Sending to client: Key successfully removed from store.
+2024/02/23 08:53:07.709: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:53:07.710: Response: New value for key, degree, added -> cs
+2024/02/23 08:53:07.711: New value for key, degree, added -> cs
+2024/02/23 08:53:12.716: Sending to client: New value for key, degree, added -> cs
+2024/02/23 08:53:12.717: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:53:12.718: Response: cs returned for key degree.
+2024/02/23 08:53:12.718: cs
+2024/02/23 08:53:17.721: Sending to client: cs
+2024/02/23 08:53:17.723: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 08:53:17.723: Response: Key, degree, successfully removed from store.
+2024/02/23 08:53:17.724: Key successfully removed from store.
+2024/02/23 08:53:22.729: Sending to client: Key successfully removed from store.
+2024/02/23 08:53:22.732: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:53:22.733: Response: New value for key, industry, added -> ecommerce
+2024/02/23 08:53:22.734: New value for key, industry, added -> ecommerce
+2024/02/23 08:53:27.736: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 08:53:27.739: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:53:27.740: Response: ecommerce returned for key industry.
+2024/02/23 08:53:27.741: ecommerce
+2024/02/23 08:53:32.746: Sending to client: ecommerce
+2024/02/23 08:53:32.748: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 08:53:32.748: Response: Key, industry, successfully removed from store.
+2024/02/23 08:53:32.752: Key successfully removed from store.
+2024/02/23 08:53:37.758: Sending to client: Key successfully removed from store.
+2024/02/23 08:53:37.762: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:53:37.762: Response: New value for key, location, added -> boston
+2024/02/23 08:53:37.762: New value for key, location, added -> boston
+2024/02/23 08:53:42.768: Sending to client: New value for key, location, added -> boston
+2024/02/23 08:53:42.769: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:53:42.769: Response: boston returned for key location.
+2024/02/23 08:53:42.769: boston
+2024/02/23 08:53:47.774: Sending to client: boston
+2024/02/23 08:53:47.777: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 08:53:47.778: Response: Key, location, successfully removed from store.
+2024/02/23 08:53:47.779: Key successfully removed from store.
+2024/02/23 08:53:52.779: Sending to client: Key successfully removed from store.
+2024/02/23 08:53:52.782: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:53:52.783: Response: New value for key, job, added -> analyst
+2024/02/23 08:53:52.783: New value for key, job, added -> analyst
+2024/02/23 08:53:57.788: Sending to client: New value for key, job, added -> analyst
+2024/02/23 08:53:57.792: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:53:57.792: Response: analyst returned for key job.
+2024/02/23 08:53:57.793: analyst
+2024/02/23 08:54:02.798: Sending to client: analyst
+2024/02/23 08:54:02.800: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 08:54:02.801: Response: Key, job, successfully removed from store.
+2024/02/23 08:54:02.802: Key successfully removed from store.
+2024/02/23 08:54:07.807: Sending to client: Key successfully removed from store.
+2024/02/23 08:54:57.562: Quit requested. Server shutting down.
+2024/02/23 08:54:57.563: Quit requested. Server shutting down.
+2024/02/23 08:55:02.568: Sending to client: Quit requested. Server shutting down.
+2024/02/23 08:55:29.425: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 08:55:29.436: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 08:55:29.436: Response: New value for key, class, added -> cs6650
+2024/02/23 08:55:29.436: New value for key, class, added -> cs6650
+2024/02/23 08:55:29.437: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 08:55:29.438: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 08:55:29.438: Response: New value for key, semester, added -> spring2024
+2024/02/23 08:55:29.438: New value for key, semester, added -> spring2024
+2024/02/23 08:55:29.438: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 08:55:29.439: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 08:55:29.439: Response: New value for key, professor, added -> saripalli
+2024/02/23 08:55:29.439: New value for key, professor, added -> saripalli
+2024/02/23 08:55:29.439: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 08:55:29.440: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 08:55:29.440: Response: New value for key, program, added -> mscs
+2024/02/23 08:55:29.440: New value for key, program, added -> mscs
+2024/02/23 08:55:29.440: Sending to client: New value for key, program, added -> mscs
+2024/02/23 08:55:29.440: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 08:55:29.440: Response: New value for key, university, added -> northeastern
+2024/02/23 08:55:29.441: New value for key, university, added -> northeastern
+2024/02/23 08:55:29.441: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 08:55:29.441: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:55:29.441: Response: New value for key, name, added -> dominic
+2024/02/23 08:55:29.441: New value for key, name, added -> dominic
+2024/02/23 08:55:29.441: Sending to client: New value for key, name, added -> dominic
+2024/02/23 08:55:29.442: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:55:29.442: Response: dominic returned for key name.
+2024/02/23 08:55:29.442: dominic
+2024/02/23 08:55:29.442: Sending to client: dominic
+2024/02/23 08:55:29.443: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:55:29.443: Response: Key, name, successfully removed from store.
+2024/02/23 08:55:29.443: Key successfully removed from store.
+2024/02/23 08:55:29.443: Sending to client: Key successfully removed from store.
+2024/02/23 08:55:29.443: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:55:29.443: Response: New value for key, degree, added -> cs
+2024/02/23 08:55:29.444: New value for key, degree, added -> cs
+2024/02/23 08:55:29.444: Sending to client: New value for key, degree, added -> cs
+2024/02/23 08:55:29.444: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:55:29.444: Response: cs returned for key degree.
+2024/02/23 08:55:29.444: cs
+2024/02/23 08:55:29.444: Sending to client: cs
+2024/02/23 08:55:29.445: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:55:29.445: Response: Key, degree, successfully removed from store.
+2024/02/23 08:55:29.445: Key successfully removed from store.
+2024/02/23 08:55:29.445: Sending to client: Key successfully removed from store.
+2024/02/23 08:55:29.445: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:55:29.445: Response: New value for key, industry, added -> ecommerce
+2024/02/23 08:55:29.446: New value for key, industry, added -> ecommerce
+2024/02/23 08:55:29.446: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 08:55:29.446: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:55:29.446: Response: ecommerce returned for key industry.
+2024/02/23 08:55:29.447: ecommerce
+2024/02/23 08:55:29.447: Sending to client: ecommerce
+2024/02/23 08:55:29.447: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:55:29.447: Response: Key, industry, successfully removed from store.
+2024/02/23 08:55:29.447: Key successfully removed from store.
+2024/02/23 08:55:29.447: Sending to client: Key successfully removed from store.
+2024/02/23 08:55:29.448: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:55:29.448: Response: New value for key, location, added -> boston
+2024/02/23 08:55:29.448: New value for key, location, added -> boston
+2024/02/23 08:55:29.448: Sending to client: New value for key, location, added -> boston
+2024/02/23 08:55:29.448: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:55:29.448: Response: boston returned for key location.
+2024/02/23 08:55:29.449: boston
+2024/02/23 08:55:29.449: Sending to client: boston
+2024/02/23 08:55:29.449: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:55:29.449: Response: Key, location, successfully removed from store.
+2024/02/23 08:55:29.449: Key successfully removed from store.
+2024/02/23 08:55:29.449: Sending to client: Key successfully removed from store.
+2024/02/23 08:55:29.450: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:55:29.450: Response: New value for key, job, added -> analyst
+2024/02/23 08:55:29.450: New value for key, job, added -> analyst
+2024/02/23 08:55:29.450: Sending to client: New value for key, job, added -> analyst
+2024/02/23 08:55:29.450: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:55:29.450: Response: analyst returned for key job.
+2024/02/23 08:55:29.450: analyst
+2024/02/23 08:55:29.450: Sending to client: analyst
+2024/02/23 08:55:29.451: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:55:29.451: Response: Key, job, successfully removed from store.
+2024/02/23 08:55:29.451: Key successfully removed from store.
+2024/02/23 08:55:29.451: Sending to client: Key successfully removed from store.
+2024/02/23 08:56:00.789: Quit requested. Server shutting down.
+2024/02/23 08:56:00.789: Quit requested. Server shutting down.
+2024/02/23 08:56:00.790: Sending to client: Quit requested. Server shutting down.
+2024/02/23 08:57:33.847: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 08:57:33.858: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 08:57:33.858: Response: New value for key, class, added -> cs6650
+2024/02/23 08:57:33.858: New value for key, class, added -> cs6650
+2024/02/23 08:57:38.864: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 08:57:38.869: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 08:57:38.869: Response: New value for key, semester, added -> spring2024
+2024/02/23 08:57:38.870: New value for key, semester, added -> spring2024
+2024/02/23 08:57:43.875: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 08:57:43.878: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 08:57:43.879: Response: New value for key, professor, added -> saripalli
+2024/02/23 08:57:43.879: New value for key, professor, added -> saripalli
+2024/02/23 08:57:48.884: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 08:57:48.887: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 08:57:48.888: Response: New value for key, program, added -> mscs
+2024/02/23 08:57:48.889: New value for key, program, added -> mscs
+2024/02/23 08:57:53.894: Sending to client: New value for key, program, added -> mscs
+2024/02/23 08:57:53.896: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 08:57:53.897: Response: New value for key, university, added -> northeastern
+2024/02/23 08:57:53.898: New value for key, university, added -> northeastern
+2024/02/23 08:57:58.902: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 08:57:58.903: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:57:58.904: Response: New value for key, name, added -> dominic
+2024/02/23 08:57:58.904: New value for key, name, added -> dominic
+2024/02/23 08:58:03.909: Sending to client: New value for key, name, added -> dominic
+2024/02/23 08:58:03.912: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:58:03.914: Response: dominic returned for key name.
+2024/02/23 08:58:03.915: dominic
+2024/02/23 08:58:08.918: Sending to client: dominic
+2024/02/23 08:58:08.922: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 08:58:08.923: Response: Key, name, successfully removed from store.
+2024/02/23 08:58:08.924: Key successfully removed from store.
+2024/02/23 08:58:13.930: Sending to client: Key successfully removed from store.
+2024/02/23 08:58:13.933: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:58:13.933: Response: New value for key, degree, added -> cs
+2024/02/23 08:58:13.934: New value for key, degree, added -> cs
+2024/02/23 08:58:18.935: Sending to client: New value for key, degree, added -> cs
+2024/02/23 08:58:18.940: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:58:18.942: Response: cs returned for key degree.
+2024/02/23 08:58:18.944: cs
+2024/02/23 08:58:23.949: Sending to client: cs
+2024/02/23 08:58:23.953: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 08:58:23.953: Response: Key, degree, successfully removed from store.
+2024/02/23 08:58:23.954: Key successfully removed from store.
+2024/02/23 08:58:28.955: Sending to client: Key successfully removed from store.
+2024/02/23 08:58:28.960: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:58:28.961: Response: New value for key, industry, added -> ecommerce
+2024/02/23 08:58:28.961: New value for key, industry, added -> ecommerce
+2024/02/23 08:58:33.963: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 08:58:33.965: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:58:33.966: Response: ecommerce returned for key industry.
+2024/02/23 08:58:33.966: ecommerce
+2024/02/23 08:58:38.971: Sending to client: ecommerce
+2024/02/23 08:58:38.973: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 08:58:38.974: Response: Key, industry, successfully removed from store.
+2024/02/23 08:58:38.974: Key successfully removed from store.
+2024/02/23 08:58:43.979: Sending to client: Key successfully removed from store.
+2024/02/23 08:58:43.981: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:58:43.982: Response: New value for key, location, added -> boston
+2024/02/23 08:58:43.983: New value for key, location, added -> boston
+2024/02/23 08:58:48.987: Sending to client: New value for key, location, added -> boston
+2024/02/23 08:58:48.992: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:58:48.993: Response: boston returned for key location.
+2024/02/23 08:58:48.994: boston
+2024/02/23 08:58:53.995: Sending to client: boston
+2024/02/23 08:58:54.001: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 08:58:54.002: Response: Key, location, successfully removed from store.
+2024/02/23 08:58:54.003: Key successfully removed from store.
+2024/02/23 08:58:59.004: Sending to client: Key successfully removed from store.
+2024/02/23 08:58:59.007: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:58:59.008: Response: New value for key, job, added -> analyst
+2024/02/23 08:58:59.008: New value for key, job, added -> analyst
+2024/02/23 08:59:04.014: Sending to client: New value for key, job, added -> analyst
+2024/02/23 08:59:04.017: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:59:04.018: Response: analyst returned for key job.
+2024/02/23 08:59:04.018: analyst
+2024/02/23 08:59:09.021: Sending to client: analyst
+2024/02/23 08:59:09.026: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 08:59:09.026: Response: Key, job, successfully removed from store.
+2024/02/23 08:59:09.027: Key successfully removed from store.
+2024/02/23 08:59:14.031: Sending to client: Key successfully removed from store.
+2024/02/23 09:00:20.182: Quit requested. Server shutting down.
+2024/02/23 09:00:20.238: Quit requested. Server shutting down.
+2024/02/23 09:00:25.244: Sending to client: Quit requested. Server shutting down.
+2024/02/23 09:05:22.233: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 09:05:22.243: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:05:22.244: Response: New value for key, class, added -> cs6650
+2024/02/23 09:05:22.244: New value for key, class, added -> cs6650
+2024/02/23 09:05:30.250: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 09:05:30.256: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 09:05:30.257: Response: New value for key, semester, added -> spring2024
+2024/02/23 09:05:30.258: New value for key, semester, added -> spring2024
+2024/02/23 09:05:38.263: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 09:05:38.266: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 09:05:38.267: Response: New value for key, professor, added -> saripalli
+2024/02/23 09:05:38.267: New value for key, professor, added -> saripalli
+2024/02/23 09:05:46.269: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 09:05:46.272: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 09:05:46.272: Response: New value for key, program, added -> mscs
+2024/02/23 09:05:46.273: New value for key, program, added -> mscs
+2024/02/23 09:05:54.278: Sending to client: New value for key, program, added -> mscs
+2024/02/23 09:05:54.282: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 09:05:54.282: Response: New value for key, university, added -> northeastern
+2024/02/23 09:05:54.283: New value for key, university, added -> northeastern
+2024/02/23 09:06:02.286: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 09:06:02.289: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:06:02.289: Response: New value for key, name, added -> dominic
+2024/02/23 09:06:02.290: New value for key, name, added -> dominic
+2024/02/23 09:06:10.292: Sending to client: New value for key, name, added -> dominic
+2024/02/23 09:06:10.296: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:06:10.297: Response: dominic returned for key name.
+2024/02/23 09:06:10.298: dominic
+2024/02/23 09:06:18.303: Sending to client: dominic
+2024/02/23 09:06:18.306: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:06:18.307: Response: Key, name, successfully removed from store.
+2024/02/23 09:06:18.308: Key successfully removed from store.
+2024/02/23 09:06:26.308: Sending to client: Key successfully removed from store.
+2024/02/23 09:06:26.312: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:06:26.313: Response: New value for key, degree, added -> cs
+2024/02/23 09:06:26.313: New value for key, degree, added -> cs
+2024/02/23 09:06:34.317: Sending to client: New value for key, degree, added -> cs
+2024/02/23 09:06:34.326: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:06:34.329: Response: cs returned for key degree.
+2024/02/23 09:06:34.330: cs
+2024/02/23 09:06:42.335: Sending to client: cs
+2024/02/23 09:06:42.337: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:06:42.338: Response: Key, degree, successfully removed from store.
+2024/02/23 09:06:42.338: Key successfully removed from store.
+2024/02/23 09:06:50.343: Sending to client: Key successfully removed from store.
+2024/02/23 09:06:50.345: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:06:50.345: Response: New value for key, industry, added -> ecommerce
+2024/02/23 09:06:50.346: New value for key, industry, added -> ecommerce
+2024/02/23 09:06:58.349: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 09:06:58.350: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:06:58.352: Response: ecommerce returned for key industry.
+2024/02/23 09:06:58.352: ecommerce
+2024/02/23 09:07:06.355: Sending to client: ecommerce
+2024/02/23 09:07:06.358: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:07:06.359: Response: Key, industry, successfully removed from store.
+2024/02/23 09:07:06.360: Key successfully removed from store.
+2024/02/23 09:07:14.367: Sending to client: Key successfully removed from store.
+2024/02/23 09:08:57.084: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 09:08:57.095: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:08:57.095: Response: New value for key, class, added -> cs6650
+2024/02/23 09:08:57.095: New value for key, class, added -> cs6650
+2024/02/23 09:09:05.101: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 09:09:05.108: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 09:09:05.108: Response: New value for key, semester, added -> spring2024
+2024/02/23 09:09:05.109: New value for key, semester, added -> spring2024
+2024/02/23 09:09:13.114: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 09:09:13.119: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 09:09:13.120: Response: New value for key, professor, added -> saripalli
+2024/02/23 09:09:13.120: New value for key, professor, added -> saripalli
+2024/02/23 09:09:21.125: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 09:09:21.129: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 09:09:21.129: Response: New value for key, program, added -> mscs
+2024/02/23 09:09:21.130: New value for key, program, added -> mscs
+2024/02/23 09:09:29.135: Sending to client: New value for key, program, added -> mscs
+2024/02/23 09:09:29.138: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 09:09:29.139: Response: New value for key, university, added -> northeastern
+2024/02/23 09:09:29.139: New value for key, university, added -> northeastern
+2024/02/23 09:09:37.144: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 09:09:37.148: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:09:37.148: Response: New value for key, name, added -> dominic
+2024/02/23 09:09:37.148: New value for key, name, added -> dominic
+2024/02/23 09:09:45.153: Sending to client: New value for key, name, added -> dominic
+2024/02/23 09:09:45.157: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:09:45.158: Response: dominic returned for key name.
+2024/02/23 09:09:45.158: dominic
+2024/02/23 09:09:53.161: Sending to client: dominic
+2024/02/23 09:09:53.164: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:09:53.165: Response: Key, name, successfully removed from store.
+2024/02/23 09:09:53.165: Key successfully removed from store.
+2024/02/23 09:10:01.170: Sending to client: Key successfully removed from store.
+2024/02/23 09:10:01.173: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:10:01.174: Response: New value for key, degree, added -> cs
+2024/02/23 09:10:01.174: New value for key, degree, added -> cs
+2024/02/23 09:10:09.179: Sending to client: New value for key, degree, added -> cs
+2024/02/23 09:10:09.182: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:10:09.182: Response: cs returned for key degree.
+2024/02/23 09:10:09.183: cs
+2024/02/23 09:10:17.188: Sending to client: cs
+2024/02/23 09:10:17.193: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:10:17.194: Response: Key, degree, successfully removed from store.
+2024/02/23 09:10:17.195: Key successfully removed from store.
+2024/02/23 09:10:25.197: Sending to client: Key successfully removed from store.
+2024/02/23 09:10:25.200: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:10:25.201: Response: New value for key, industry, added -> ecommerce
+2024/02/23 09:10:25.202: New value for key, industry, added -> ecommerce
+2024/02/23 09:10:33.207: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 09:10:33.210: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:10:33.211: Response: ecommerce returned for key industry.
+2024/02/23 09:10:33.211: ecommerce
+2024/02/23 09:10:41.217: Sending to client: ecommerce
+2024/02/23 09:10:41.220: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:10:41.221: Response: Key, industry, successfully removed from store.
+2024/02/23 09:10:41.221: Key successfully removed from store.
+2024/02/23 09:10:49.226: Sending to client: Key successfully removed from store.
+2024/02/23 09:10:49.229: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:10:49.230: Response: New value for key, location, added -> boston
+2024/02/23 09:10:49.230: New value for key, location, added -> boston
+2024/02/23 09:10:57.235: Sending to client: New value for key, location, added -> boston
+2024/02/23 09:10:57.238: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:10:57.239: Response: boston returned for key location.
+2024/02/23 09:10:57.239: boston
+2024/02/23 09:11:05.244: Sending to client: boston
+2024/02/23 09:11:05.247: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:11:05.248: Response: Key, location, successfully removed from store.
+2024/02/23 09:11:05.249: Key successfully removed from store.
+2024/02/23 09:11:13.254: Sending to client: Key successfully removed from store.
+2024/02/23 09:11:13.257: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:11:13.257: Response: New value for key, job, added -> analyst
+2024/02/23 09:11:13.258: New value for key, job, added -> analyst
+2024/02/23 09:11:21.263: Sending to client: New value for key, job, added -> analyst
+2024/02/23 09:11:21.267: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:11:21.267: Response: analyst returned for key job.
+2024/02/23 09:11:21.268: analyst
+2024/02/23 09:11:29.269: Sending to client: analyst
+2024/02/23 09:11:29.273: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:11:29.273: Response: Key, job, successfully removed from store.
+2024/02/23 09:11:29.273: Key successfully removed from store.
+2024/02/23 09:11:37.278: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:26.551: Connection with 0.0.0.0/0.0.0.0 established.
+2024/02/23 09:14:26.561: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:14:26.562: Response: New value for key, class, added -> cs6650
+2024/02/23 09:14:26.562: New value for key, class, added -> cs6650
+2024/02/23 09:14:26.562: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 09:14:26.563: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key semester.
+2024/02/23 09:14:26.564: Response: New value for key, semester, added -> spring2024
+2024/02/23 09:14:26.564: New value for key, semester, added -> spring2024
+2024/02/23 09:14:26.564: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 09:14:26.564: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key professor.
+2024/02/23 09:14:26.565: Response: New value for key, professor, added -> saripalli
+2024/02/23 09:14:26.565: New value for key, professor, added -> saripalli
+2024/02/23 09:14:26.565: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 09:14:26.565: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key program.
+2024/02/23 09:14:26.565: Response: New value for key, program, added -> mscs
+2024/02/23 09:14:26.565: New value for key, program, added -> mscs
+2024/02/23 09:14:26.565: Sending to client: New value for key, program, added -> mscs
+2024/02/23 09:14:26.566: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key university.
+2024/02/23 09:14:26.566: Response: New value for key, university, added -> northeastern
+2024/02/23 09:14:26.566: New value for key, university, added -> northeastern
+2024/02/23 09:14:26.566: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 09:14:26.567: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:14:26.567: Response: New value for key, name, added -> dominic
+2024/02/23 09:14:26.567: New value for key, name, added -> dominic
+2024/02/23 09:14:26.567: Sending to client: New value for key, name, added -> dominic
+2024/02/23 09:14:26.568: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:14:26.568: Response: dominic returned for key name.
+2024/02/23 09:14:26.568: dominic
+2024/02/23 09:14:26.568: Sending to client: dominic
+2024/02/23 09:14:26.568: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key name.
+2024/02/23 09:14:26.569: Response: Key, name, successfully removed from store.
+2024/02/23 09:14:26.569: Key successfully removed from store.
+2024/02/23 09:14:26.569: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:26.569: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:14:26.569: Response: New value for key, degree, added -> cs
+2024/02/23 09:14:26.569: New value for key, degree, added -> cs
+2024/02/23 09:14:26.570: Sending to client: New value for key, degree, added -> cs
+2024/02/23 09:14:26.570: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:14:26.570: Response: cs returned for key degree.
+2024/02/23 09:14:26.570: cs
+2024/02/23 09:14:26.570: Sending to client: cs
+2024/02/23 09:14:26.571: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key degree.
+2024/02/23 09:14:26.571: Response: Key, degree, successfully removed from store.
+2024/02/23 09:14:26.571: Key successfully removed from store.
+2024/02/23 09:14:26.571: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:26.571: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:14:26.571: Response: New value for key, industry, added -> ecommerce
+2024/02/23 09:14:26.571: New value for key, industry, added -> ecommerce
+2024/02/23 09:14:26.572: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 09:14:26.572: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:14:26.572: Response: ecommerce returned for key industry.
+2024/02/23 09:14:26.572: ecommerce
+2024/02/23 09:14:26.572: Sending to client: ecommerce
+2024/02/23 09:14:26.573: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key industry.
+2024/02/23 09:14:26.573: Response: Key, industry, successfully removed from store.
+2024/02/23 09:14:26.573: Key successfully removed from store.
+2024/02/23 09:14:26.573: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:26.573: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:14:26.573: Response: New value for key, location, added -> boston
+2024/02/23 09:14:26.573: New value for key, location, added -> boston
+2024/02/23 09:14:26.574: Sending to client: New value for key, location, added -> boston
+2024/02/23 09:14:26.574: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:14:26.574: Response: boston returned for key location.
+2024/02/23 09:14:26.574: boston
+2024/02/23 09:14:26.574: Sending to client: boston
+2024/02/23 09:14:26.575: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key location.
+2024/02/23 09:14:26.575: Response: Key, location, successfully removed from store.
+2024/02/23 09:14:26.575: Key successfully removed from store.
+2024/02/23 09:14:26.575: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:26.575: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:14:26.575: Response: New value for key, job, added -> analyst
+2024/02/23 09:14:26.576: New value for key, job, added -> analyst
+2024/02/23 09:14:26.576: Sending to client: New value for key, job, added -> analyst
+2024/02/23 09:14:26.576: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:14:26.576: Response: analyst returned for key job.
+2024/02/23 09:14:26.576: analyst
+2024/02/23 09:14:26.576: Sending to client: analyst
+2024/02/23 09:14:26.577: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key job.
+2024/02/23 09:14:26.577: Response: Key, job, successfully removed from store.
+2024/02/23 09:14:26.577: Key successfully removed from store.
+2024/02/23 09:14:26.577: Sending to client: Key successfully removed from store.
+2024/02/23 09:14:33.108: Received malformed request of length 9 from address 0.0.0.0/0.0.0.0, port 4999
+2024/02/23 09:14:33.110: Received malformed request of length 9from address 0.0.0.0/0.0.0.0, port 4999
+2024/02/23 09:14:33.110: Datagram packet malformed.
+2024/02/23 09:14:33.110: Sending to client: Datagram packet malformed.
+2024/02/23 09:14:51.159: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:14:51.160: Response: cs6650 returned for key class.
+2024/02/23 09:14:51.160: cs6650
+2024/02/23 09:14:51.160: Sending to client: cs6650
+2024/02/23 09:15:00.721: Received DELETE request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:15:00.722: Response: Key, class, successfully removed from store.
+2024/02/23 09:15:00.723: Key successfully removed from store.
+2024/02/23 09:15:00.723: Sending to client: Key successfully removed from store.
+2024/02/23 09:15:05.479: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:15:05.535: Response: No key, class, found in data store.
+2024/02/23 09:15:05.536: No key found in data store.
+2024/02/23 09:15:05.536: Sending to client: No key found in data store.
+2024/02/23 09:15:15.731: Received PUT request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:15:15.732: Response: New value for key, class, added -> cs6650
+2024/02/23 09:15:15.732: New value for key, class, added -> cs6650
+2024/02/23 09:15:15.732: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 09:15:24.088: Received GET request from Inet Address, 0.0.0.0/0.0.0.0, on port, 4999, for key class.
+2024/02/23 09:15:24.088: Response: cs6650 returned for key class.
+2024/02/23 09:15:24.089: cs6650
+2024/02/23 09:15:24.089: Sending to client: cs6650
+2024/02/23 09:15:32.318: Received malformed request of length 15 from address 0.0.0.0/0.0.0.0, port 4999
+2024/02/23 09:15:32.320: Received malformed request of length 15from address 0.0.0.0/0.0.0.0, port 4999
+2024/02/23 09:15:32.320: Datagram packet malformed.
+2024/02/23 09:15:32.321: Sending to client: Datagram packet malformed.
+2024/02/23 09:15:41.787: Quit requested. Server shutting down.
+2024/02/23 09:15:41.788: Quit requested. Server shutting down.
+2024/02/23 09:15:41.788: Sending to client: Quit requested. Server shutting down.
+2024/02/23 09:17:02.670: Received PUT request from Inet Address, null, on port, 0, for key class.
+2024/02/23 09:17:02.672: Response: New value for key, class, added -> cs6650
+2024/02/23 09:17:02.673: New value for key, class, added -> cs6650
+2024/02/23 09:17:02.673: Sending to client: New value for key, class, added -> cs6650
+2024/02/23 09:17:02.674: Received PUT request from Inet Address, null, on port, 0, for key semester.
+2024/02/23 09:17:02.674: Response: New value for key, semester, added -> spring2024
+2024/02/23 09:17:02.674: New value for key, semester, added -> spring2024
+2024/02/23 09:17:02.674: Sending to client: New value for key, semester, added -> spring2024
+2024/02/23 09:17:02.675: Received PUT request from Inet Address, null, on port, 0, for key professor.
+2024/02/23 09:17:02.675: Response: New value for key, professor, added -> saripalli
+2024/02/23 09:17:02.675: New value for key, professor, added -> saripalli
+2024/02/23 09:17:02.675: Sending to client: New value for key, professor, added -> saripalli
+2024/02/23 09:17:02.675: Received PUT request from Inet Address, null, on port, 0, for key program.
+2024/02/23 09:17:02.675: Response: New value for key, program, added -> mscs
+2024/02/23 09:17:02.675: New value for key, program, added -> mscs
+2024/02/23 09:17:02.676: Sending to client: New value for key, program, added -> mscs
+2024/02/23 09:17:02.676: Received PUT request from Inet Address, null, on port, 0, for key university.
+2024/02/23 09:17:02.676: Response: New value for key, university, added -> northeastern
+2024/02/23 09:17:02.676: New value for key, university, added -> northeastern
+2024/02/23 09:17:02.676: Sending to client: New value for key, university, added -> northeastern
+2024/02/23 09:17:02.677: Received PUT request from Inet Address, null, on port, 0, for key name.
+2024/02/23 09:17:02.677: Response: New value for key, name, added -> dominic
+2024/02/23 09:17:02.677: New value for key, name, added -> dominic
+2024/02/23 09:17:02.677: Sending to client: New value for key, name, added -> dominic
+2024/02/23 09:17:02.677: Received GET request from Inet Address, null, on port, 0, for key name.
+2024/02/23 09:17:02.678: Response: dominic returned for key name.
+2024/02/23 09:17:02.678: dominic
+2024/02/23 09:17:02.678: Sending to client: dominic
+2024/02/23 09:17:02.678: Received DELETE request from Inet Address, null, on port, 0, for key name.
+2024/02/23 09:17:02.680: Response: Key, name, successfully removed from store.
+2024/02/23 09:17:02.680: Key successfully removed from store.
+2024/02/23 09:17:02.680: Sending to client: Key successfully removed from store.
+2024/02/23 09:17:02.680: Received PUT request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 09:17:02.681: Response: New value for key, degree, added -> cs
+2024/02/23 09:17:02.681: New value for key, degree, added -> cs
+2024/02/23 09:17:02.681: Sending to client: New value for key, degree, added -> cs
+2024/02/23 09:17:02.681: Received GET request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 09:17:02.681: Response: cs returned for key degree.
+2024/02/23 09:17:02.681: cs
+2024/02/23 09:17:02.681: Sending to client: cs
+2024/02/23 09:17:02.682: Received DELETE request from Inet Address, null, on port, 0, for key degree.
+2024/02/23 09:17:02.682: Response: Key, degree, successfully removed from store.
+2024/02/23 09:17:02.682: Key successfully removed from store.
+2024/02/23 09:17:02.682: Sending to client: Key successfully removed from store.
+2024/02/23 09:17:02.682: Received PUT request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 09:17:02.683: Response: New value for key, industry, added -> ecommerce
+2024/02/23 09:17:02.683: New value for key, industry, added -> ecommerce
+2024/02/23 09:17:02.683: Sending to client: New value for key, industry, added -> ecommerce
+2024/02/23 09:17:02.683: Received GET request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 09:17:02.683: Response: ecommerce returned for key industry.
+2024/02/23 09:17:02.684: ecommerce
+2024/02/23 09:17:02.684: Sending to client: ecommerce
+2024/02/23 09:17:02.684: Received DELETE request from Inet Address, null, on port, 0, for key industry.
+2024/02/23 09:17:02.684: Response: Key, industry, successfully removed from store.
+2024/02/23 09:17:02.685: Key successfully removed from store.
+2024/02/23 09:17:02.685: Sending to client: Key successfully removed from store.
+2024/02/23 09:17:02.685: Received PUT request from Inet Address, null, on port, 0, for key location.
+2024/02/23 09:17:02.685: Response: New value for key, location, added -> boston
+2024/02/23 09:17:02.685: New value for key, location, added -> boston
+2024/02/23 09:17:02.685: Sending to client: New value for key, location, added -> boston
+2024/02/23 09:17:02.686: Received GET request from Inet Address, null, on port, 0, for key location.
+2024/02/23 09:17:02.686: Response: boston returned for key location.
+2024/02/23 09:17:02.686: boston
+2024/02/23 09:17:02.686: Sending to client: boston
+2024/02/23 09:17:02.686: Received DELETE request from Inet Address, null, on port, 0, for key location.
+2024/02/23 09:17:02.687: Response: Key, location, successfully removed from store.
+2024/02/23 09:17:02.687: Key successfully removed from store.
+2024/02/23 09:17:02.687: Sending to client: Key successfully removed from store.
+2024/02/23 09:17:02.687: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:02.687: Response: New value for key, job, added -> analyst
+2024/02/23 09:17:02.687: New value for key, job, added -> analyst
+2024/02/23 09:17:02.687: Sending to client: New value for key, job, added -> analyst
+2024/02/23 09:17:02.688: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:02.688: Response: analyst returned for key job.
+2024/02/23 09:17:02.688: analyst
+2024/02/23 09:17:02.688: Sending to client: analyst
+2024/02/23 09:17:02.688: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:02.688: Response: Key, job, successfully removed from store.
+2024/02/23 09:17:02.689: Key successfully removed from store.
+2024/02/23 09:17:02.689: Sending to client: Key successfully removed from store.
+2024/02/23 09:17:12.422: Received PUT request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:12.423: Response: New value for key, job, added -> none
+2024/02/23 09:17:12.424: New value for key, job, added -> none
+2024/02/23 09:17:12.424: Sending to client: New value for key, job, added -> none
+2024/02/23 09:17:19.289: Received GET request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:19.290: Response: none returned for key job.
+2024/02/23 09:17:19.290: none
+2024/02/23 09:17:19.291: Sending to client: none
+2024/02/23 09:17:28.560: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:17:28.562: Response: Key, job, successfully removed from store.
+2024/02/23 09:17:28.562: Key successfully removed from store.
+2024/02/23 09:17:28.563: Sending to client: Key successfully removed from store.
+2024/02/23 09:22:36.081: Received DELETE request from Inet Address, null, on port, 0, for key job.
+2024/02/23 09:22:36.083: Response: Key, job, did not exist in store.
+2024/02/23 09:22:36.083: Key did not exist in store.
+2024/02/23 09:22:36.083: Sending to client: Key did not exist in store.
+2024/02/23 09:22:43.696: Received malformed request of length 11 from address null, port 0
+2024/02/23 09:22:43.697: Received malformed request of length 11from address null, port 0
+2024/02/23 09:22:43.697: Datagram packet malformed.
+2024/02/23 09:22:43.698: Sending to client: Datagram packet malformed.
+2024/02/23 09:22:48.680: Quit requested. Server shutting down.
+2024/02/23 09:22:48.681: Quit requested. Server shutting down.
+2024/02/23 09:22:48.681: Sending to client: Quit requested. Server shutting down.

@@ -1,0 +1,965 @@
+2024/02/22 23:46:46.483: Request sent to server: put, class, CS6650
+2024/02/22 23:47:01.485: Unable to send pre-populated data.
+2024/02/22 23:47:01.486: Request sent to server: put, semester, Spring2024
+2024/02/22 23:47:01.520: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.520: Packet received from server malformed.
+2024/02/22 23:47:01.521: Request sent to server: put, professor, Saripalli
+2024/02/22 23:47:01.522: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.522: Packet received from server malformed.
+2024/02/22 23:47:01.522: Request sent to server: put, program, MSCS
+2024/02/22 23:47:01.524: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.524: Packet received from server malformed.
+2024/02/22 23:47:01.524: Request sent to server: put, university, Northeastern
+2024/02/22 23:47:01.525: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.526: Packet received from server malformed.
+2024/02/22 23:47:01.526: Request sent to server: put, name, dominic
+2024/02/22 23:47:01.527: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.528: Packet received from server malformed.
+2024/02/22 23:47:01.528: Request sent to server: get, name
+2024/02/22 23:47:01.529: Return message received from server: dominic
+2024/02/22 23:47:01.530: Request sent to server: delete, name
+2024/02/22 23:47:01.534: Return message received from server: Key successfully removed from store.
+2024/02/22 23:47:01.534: Request sent to server: put, degree, CS
+2024/02/22 23:47:01.535: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.535: Packet received from server malformed.
+2024/02/22 23:47:01.535: Request sent to server: get, degree
+2024/02/22 23:47:01.536: Return message received from server: cs
+2024/02/22 23:47:01.536: Request sent to server: delete, degree
+2024/02/22 23:47:01.537: Return message received from server: Key successfully removed from store.
+2024/02/22 23:47:01.538: Request sent to server: put, industry, ecommerce
+2024/02/22 23:47:01.539: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.539: Packet received from server malformed.
+2024/02/22 23:47:01.539: Request sent to server: get, industry
+2024/02/22 23:47:01.540: Return message received from server: ecommerce
+2024/02/22 23:47:01.540: Request sent to server: delete, industry
+2024/02/22 23:47:01.542: Return message received from server: Key successfully removed from store.
+2024/02/22 23:47:01.542: Request sent to server: put, location, boston
+2024/02/22 23:47:01.543: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.543: Packet received from server malformed.
+2024/02/22 23:47:01.543: Request sent to server: get, location
+2024/02/22 23:47:01.544: Return message received from server: boston
+2024/02/22 23:47:01.544: Request sent to server: delete, location
+2024/02/22 23:47:01.545: Return message received from server: Key successfully removed from store.
+2024/02/22 23:47:01.545: Request sent to server: put, job, analyst
+2024/02/22 23:47:01.546: No header available for packet. Checksum not validated
+2024/02/22 23:47:01.546: Packet received from server malformed.
+2024/02/22 23:47:01.546: Request sent to server: get, job
+2024/02/22 23:47:01.547: Return message received from server: analyst
+2024/02/22 23:47:01.547: Request sent to server: delete, job
+2024/02/22 23:47:01.547: Return message received from server: Key successfully removed from store.
+2024/02/22 23:47:19.599: Request sent to server: p
+2024/02/22 23:47:19.662: Return message received from server: Datagram packet malformed.
+2024/02/22 23:47:23.871: Request sent to server: q
+2024/02/22 23:47:23.873: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:09:15.620: Request sent to server: put, class, CS6650
+2024/02/23 00:09:15.634: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.634: Packet received from server malformed.
+2024/02/23 00:09:15.634: Request sent to server: put, semester, Spring2024
+2024/02/23 00:09:15.635: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.635: Packet received from server malformed.
+2024/02/23 00:09:15.635: Request sent to server: put, professor, Saripalli
+2024/02/23 00:09:15.636: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.636: Packet received from server malformed.
+2024/02/23 00:09:15.636: Request sent to server: put, program, MSCS
+2024/02/23 00:09:15.637: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.637: Packet received from server malformed.
+2024/02/23 00:09:15.637: Request sent to server: put, university, Northeastern
+2024/02/23 00:09:15.638: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.638: Packet received from server malformed.
+2024/02/23 00:09:15.638: Request sent to server: put, name, dominic
+2024/02/23 00:09:15.639: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.639: Packet received from server malformed.
+2024/02/23 00:09:15.639: Request sent to server: get, name
+2024/02/23 00:09:15.640: Return message received from server: dominic
+2024/02/23 00:09:15.640: Request sent to server: delete, name
+2024/02/23 00:09:15.642: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:15.642: Request sent to server: put, degree, CS
+2024/02/23 00:09:15.643: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.643: Packet received from server malformed.
+2024/02/23 00:09:15.643: Request sent to server: get, degree
+2024/02/23 00:09:15.644: Return message received from server: cs
+2024/02/23 00:09:15.644: Request sent to server: delete, degree
+2024/02/23 00:09:15.644: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:15.645: Request sent to server: put, industry, ecommerce
+2024/02/23 00:09:15.645: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.645: Packet received from server malformed.
+2024/02/23 00:09:15.645: Request sent to server: get, industry
+2024/02/23 00:09:15.646: Return message received from server: ecommerce
+2024/02/23 00:09:15.646: Request sent to server: delete, industry
+2024/02/23 00:09:15.647: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:15.647: Request sent to server: put, location, boston
+2024/02/23 00:09:15.648: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.648: Packet received from server malformed.
+2024/02/23 00:09:15.648: Request sent to server: get, location
+2024/02/23 00:09:15.648: Return message received from server: boston
+2024/02/23 00:09:15.648: Request sent to server: delete, location
+2024/02/23 00:09:15.649: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:15.649: Request sent to server: put, job, analyst
+2024/02/23 00:09:15.650: No header available for packet. Checksum not validated
+2024/02/23 00:09:15.650: Packet received from server malformed.
+2024/02/23 00:09:15.650: Request sent to server: get, job
+2024/02/23 00:09:15.650: Return message received from server: analyst
+2024/02/23 00:09:15.650: Request sent to server: delete, job
+2024/02/23 00:09:15.651: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:20.499: Request sent to server: q
+2024/02/23 00:09:20.503: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:09:32.414: Request sent to server: put, class, CS6650
+2024/02/23 00:09:32.428: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.428: Packet received from server malformed.
+2024/02/23 00:09:32.428: Request sent to server: put, semester, Spring2024
+2024/02/23 00:09:32.429: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.429: Packet received from server malformed.
+2024/02/23 00:09:32.430: Request sent to server: put, professor, Saripalli
+2024/02/23 00:09:32.430: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.430: Packet received from server malformed.
+2024/02/23 00:09:32.430: Request sent to server: put, program, MSCS
+2024/02/23 00:09:32.431: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.431: Packet received from server malformed.
+2024/02/23 00:09:32.431: Request sent to server: put, university, Northeastern
+2024/02/23 00:09:32.432: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.432: Packet received from server malformed.
+2024/02/23 00:09:32.432: Request sent to server: put, name, dominic
+2024/02/23 00:09:32.433: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.433: Packet received from server malformed.
+2024/02/23 00:09:32.433: Request sent to server: get, name
+2024/02/23 00:09:32.434: Return message received from server: dominic
+2024/02/23 00:09:32.434: Request sent to server: delete, name
+2024/02/23 00:09:32.436: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:32.436: Request sent to server: put, degree, CS
+2024/02/23 00:09:32.437: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.437: Packet received from server malformed.
+2024/02/23 00:09:32.437: Request sent to server: get, degree
+2024/02/23 00:09:32.437: Return message received from server: cs
+2024/02/23 00:09:32.438: Request sent to server: delete, degree
+2024/02/23 00:09:32.438: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:32.439: Request sent to server: put, industry, ecommerce
+2024/02/23 00:09:32.439: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.439: Packet received from server malformed.
+2024/02/23 00:09:32.439: Request sent to server: get, industry
+2024/02/23 00:09:32.440: Return message received from server: ecommerce
+2024/02/23 00:09:32.440: Request sent to server: delete, industry
+2024/02/23 00:09:32.441: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:32.441: Request sent to server: put, location, boston
+2024/02/23 00:09:32.442: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.442: Packet received from server malformed.
+2024/02/23 00:09:32.442: Request sent to server: get, location
+2024/02/23 00:09:32.442: Return message received from server: boston
+2024/02/23 00:09:32.442: Request sent to server: delete, location
+2024/02/23 00:09:32.443: Return message received from server: Key successfully removed from store.
+2024/02/23 00:09:32.443: Request sent to server: put, job, analyst
+2024/02/23 00:09:32.443: No header available for packet. Checksum not validated
+2024/02/23 00:09:32.444: Packet received from server malformed.
+2024/02/23 00:09:32.444: Request sent to server: get, job
+2024/02/23 00:09:32.444: Return message received from server: analyst
+2024/02/23 00:09:32.444: Request sent to server: delete, job
+2024/02/23 00:09:32.445: Return message received from server: Key successfully removed from store.
+2024/02/23 00:10:39.459: Request sent to server: q
+2024/02/23 00:10:39.512: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:11:33.858: Request sent to server: put, class, CS6650
+2024/02/23 00:11:33.872: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.872: Packet received from server malformed.
+2024/02/23 00:11:33.872: Request sent to server: put, semester, Spring2024
+2024/02/23 00:11:33.873: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.873: Packet received from server malformed.
+2024/02/23 00:11:33.873: Request sent to server: put, professor, Saripalli
+2024/02/23 00:11:33.874: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.874: Packet received from server malformed.
+2024/02/23 00:11:33.874: Request sent to server: put, program, MSCS
+2024/02/23 00:11:33.875: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.875: Packet received from server malformed.
+2024/02/23 00:11:33.875: Request sent to server: put, university, Northeastern
+2024/02/23 00:11:33.876: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.876: Packet received from server malformed.
+2024/02/23 00:11:33.876: Request sent to server: put, name, dominic
+2024/02/23 00:11:33.877: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.877: Packet received from server malformed.
+2024/02/23 00:11:33.877: Request sent to server: get, name
+2024/02/23 00:11:33.877: Return message received from server: dominic
+2024/02/23 00:11:33.878: Request sent to server: delete, name
+2024/02/23 00:11:33.880: Return message received from server: Key successfully removed from store.
+2024/02/23 00:11:33.880: Request sent to server: put, degree, CS
+2024/02/23 00:11:33.881: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.881: Packet received from server malformed.
+2024/02/23 00:11:33.881: Request sent to server: get, degree
+2024/02/23 00:11:33.881: Return message received from server: cs
+2024/02/23 00:11:33.882: Request sent to server: delete, degree
+2024/02/23 00:11:33.882: Return message received from server: Key successfully removed from store.
+2024/02/23 00:11:33.882: Request sent to server: put, industry, ecommerce
+2024/02/23 00:11:33.883: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.883: Packet received from server malformed.
+2024/02/23 00:11:33.883: Request sent to server: get, industry
+2024/02/23 00:11:33.884: Return message received from server: ecommerce
+2024/02/23 00:11:33.884: Request sent to server: delete, industry
+2024/02/23 00:11:33.885: Return message received from server: Key successfully removed from store.
+2024/02/23 00:11:33.885: Request sent to server: put, location, boston
+2024/02/23 00:11:33.886: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.886: Packet received from server malformed.
+2024/02/23 00:11:33.886: Request sent to server: get, location
+2024/02/23 00:11:33.886: Return message received from server: boston
+2024/02/23 00:11:33.886: Request sent to server: delete, location
+2024/02/23 00:11:33.887: Return message received from server: Key successfully removed from store.
+2024/02/23 00:11:33.887: Request sent to server: put, job, analyst
+2024/02/23 00:11:33.888: No header available for packet. Checksum not validated
+2024/02/23 00:11:33.888: Packet received from server malformed.
+2024/02/23 00:11:33.888: Request sent to server: get, job
+2024/02/23 00:11:33.888: Return message received from server: analyst
+2024/02/23 00:11:33.889: Request sent to server: delete, job
+2024/02/23 00:11:33.889: Return message received from server: Key successfully removed from store.
+2024/02/23 00:11:52.662: Request sent to server: q
+2024/02/23 00:11:52.667: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:15:51.526: Request sent to server: put, class, CS6650
+2024/02/23 00:15:51.540: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.540: Packet received from server malformed.
+2024/02/23 00:15:51.540: Request sent to server: put, semester, Spring2024
+2024/02/23 00:15:51.541: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.541: Packet received from server malformed.
+2024/02/23 00:15:51.541: Request sent to server: put, professor, Saripalli
+2024/02/23 00:15:51.542: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.542: Packet received from server malformed.
+2024/02/23 00:15:51.542: Request sent to server: put, program, MSCS
+2024/02/23 00:15:51.543: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.543: Packet received from server malformed.
+2024/02/23 00:15:51.543: Request sent to server: put, university, Northeastern
+2024/02/23 00:15:51.544: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.544: Packet received from server malformed.
+2024/02/23 00:15:51.544: Request sent to server: put, name, dominic
+2024/02/23 00:15:51.545: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.545: Packet received from server malformed.
+2024/02/23 00:15:51.545: Request sent to server: get, name
+2024/02/23 00:15:51.545: Return message received from server: dominic
+2024/02/23 00:15:51.546: Request sent to server: delete, name
+2024/02/23 00:15:51.548: Return message received from server: Key successfully removed from store.
+2024/02/23 00:15:51.548: Request sent to server: put, degree, CS
+2024/02/23 00:15:51.548: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.549: Packet received from server malformed.
+2024/02/23 00:15:51.549: Request sent to server: get, degree
+2024/02/23 00:15:51.549: Return message received from server: cs
+2024/02/23 00:15:51.549: Request sent to server: delete, degree
+2024/02/23 00:15:51.550: Return message received from server: Key successfully removed from store.
+2024/02/23 00:15:51.550: Request sent to server: put, industry, ecommerce
+2024/02/23 00:15:51.551: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.551: Packet received from server malformed.
+2024/02/23 00:15:51.551: Request sent to server: get, industry
+2024/02/23 00:15:51.552: Return message received from server: ecommerce
+2024/02/23 00:15:51.552: Request sent to server: delete, industry
+2024/02/23 00:15:51.553: Return message received from server: Key successfully removed from store.
+2024/02/23 00:15:51.553: Request sent to server: put, location, boston
+2024/02/23 00:15:51.553: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.553: Packet received from server malformed.
+2024/02/23 00:15:51.554: Request sent to server: get, location
+2024/02/23 00:15:51.554: Return message received from server: boston
+2024/02/23 00:15:51.554: Request sent to server: delete, location
+2024/02/23 00:15:51.555: Return message received from server: Key successfully removed from store.
+2024/02/23 00:15:51.556: Request sent to server: put, job, analyst
+2024/02/23 00:15:51.556: No header available for packet. Checksum not validated
+2024/02/23 00:15:51.556: Packet received from server malformed.
+2024/02/23 00:15:51.556: Request sent to server: get, job
+2024/02/23 00:15:51.557: Return message received from server: analyst
+2024/02/23 00:15:51.557: Request sent to server: delete, job
+2024/02/23 00:15:51.557: Return message received from server: Key successfully removed from store.
+2024/02/23 00:16:02.855: Request sent to server: q
+2024/02/23 00:16:02.857: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:18:30.096: Request sent to server: put, class, CS6650
+2024/02/23 00:18:30.105: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.105: Packet received from server malformed.
+2024/02/23 00:18:30.105: Request sent to server: put, semester, Spring2024
+2024/02/23 00:18:30.106: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.106: Packet received from server malformed.
+2024/02/23 00:18:30.106: Request sent to server: put, professor, Saripalli
+2024/02/23 00:18:30.106: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.107: Packet received from server malformed.
+2024/02/23 00:18:30.107: Request sent to server: put, program, MSCS
+2024/02/23 00:18:30.107: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.107: Packet received from server malformed.
+2024/02/23 00:18:30.107: Request sent to server: put, university, Northeastern
+2024/02/23 00:18:30.108: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.108: Packet received from server malformed.
+2024/02/23 00:18:30.108: Request sent to server: put, name, dominic
+2024/02/23 00:18:30.109: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.109: Packet received from server malformed.
+2024/02/23 00:18:30.109: Request sent to server: get, name
+2024/02/23 00:18:30.110: Return message received from server: dominic
+2024/02/23 00:18:30.110: Request sent to server: delete, name
+2024/02/23 00:18:30.111: Return message received from server: Key successfully removed from store.
+2024/02/23 00:18:30.111: Request sent to server: put, degree, CS
+2024/02/23 00:18:30.112: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.112: Packet received from server malformed.
+2024/02/23 00:18:30.112: Request sent to server: get, degree
+2024/02/23 00:18:30.112: Return message received from server: cs
+2024/02/23 00:18:30.113: Request sent to server: delete, degree
+2024/02/23 00:18:30.113: Return message received from server: Key successfully removed from store.
+2024/02/23 00:18:30.113: Request sent to server: put, industry, ecommerce
+2024/02/23 00:18:30.114: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.114: Packet received from server malformed.
+2024/02/23 00:18:30.114: Request sent to server: get, industry
+2024/02/23 00:18:30.114: Return message received from server: ecommerce
+2024/02/23 00:18:30.115: Request sent to server: delete, industry
+2024/02/23 00:18:30.115: Return message received from server: Key successfully removed from store.
+2024/02/23 00:18:30.115: Request sent to server: put, location, boston
+2024/02/23 00:18:30.116: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.116: Packet received from server malformed.
+2024/02/23 00:18:30.116: Request sent to server: get, location
+2024/02/23 00:18:30.117: Return message received from server: boston
+2024/02/23 00:18:30.117: Request sent to server: delete, location
+2024/02/23 00:18:30.117: Return message received from server: Key successfully removed from store.
+2024/02/23 00:18:30.117: Request sent to server: put, job, analyst
+2024/02/23 00:18:30.118: No header available for packet. Checksum not validated
+2024/02/23 00:18:30.118: Packet received from server malformed.
+2024/02/23 00:18:30.118: Request sent to server: get, job
+2024/02/23 00:18:30.119: Return message received from server: analyst
+2024/02/23 00:18:30.119: Request sent to server: delete, job
+2024/02/23 00:18:30.119: Return message received from server: Key successfully removed from store.
+2024/02/23 00:18:39.367: Request sent to server: q
+2024/02/23 00:18:39.372: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:26:34.049: Request sent to server: put, class, CS6650
+2024/02/23 00:26:34.058: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.059: Packet received from server malformed.
+2024/02/23 00:26:34.059: Request sent to server: put, semester, Spring2024
+2024/02/23 00:26:34.060: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.060: Packet received from server malformed.
+2024/02/23 00:26:34.060: Request sent to server: put, professor, Saripalli
+2024/02/23 00:26:34.060: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.060: Packet received from server malformed.
+2024/02/23 00:26:34.061: Request sent to server: put, program, MSCS
+2024/02/23 00:26:34.061: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.061: Packet received from server malformed.
+2024/02/23 00:26:34.061: Request sent to server: put, university, Northeastern
+2024/02/23 00:26:34.062: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.062: Packet received from server malformed.
+2024/02/23 00:26:34.062: Request sent to server: put, name, dominic
+2024/02/23 00:26:34.063: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.063: Packet received from server malformed.
+2024/02/23 00:26:34.063: Request sent to server: get, name
+2024/02/23 00:26:34.064: Return message received from server: dominic
+2024/02/23 00:26:34.064: Request sent to server: delete, name
+2024/02/23 00:26:34.065: Return message received from server: Key successfully removed from store.
+2024/02/23 00:26:34.065: Request sent to server: put, degree, CS
+2024/02/23 00:26:34.066: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.066: Packet received from server malformed.
+2024/02/23 00:26:34.066: Request sent to server: get, degree
+2024/02/23 00:26:34.066: Return message received from server: cs
+2024/02/23 00:26:34.067: Request sent to server: delete, degree
+2024/02/23 00:26:34.067: Return message received from server: Key successfully removed from store.
+2024/02/23 00:26:34.067: Request sent to server: put, industry, ecommerce
+2024/02/23 00:26:34.069: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.069: Packet received from server malformed.
+2024/02/23 00:26:34.069: Request sent to server: get, industry
+2024/02/23 00:26:34.069: Return message received from server: ecommerce
+2024/02/23 00:26:34.070: Request sent to server: delete, industry
+2024/02/23 00:26:34.070: Return message received from server: Key successfully removed from store.
+2024/02/23 00:26:34.070: Request sent to server: put, location, boston
+2024/02/23 00:26:34.071: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.071: Packet received from server malformed.
+2024/02/23 00:26:34.071: Request sent to server: get, location
+2024/02/23 00:26:34.072: Return message received from server: boston
+2024/02/23 00:26:34.072: Request sent to server: delete, location
+2024/02/23 00:26:34.072: Return message received from server: Key successfully removed from store.
+2024/02/23 00:26:34.072: Request sent to server: put, job, analyst
+2024/02/23 00:26:34.073: No header available for packet. Checksum not validated
+2024/02/23 00:26:34.073: Packet received from server malformed.
+2024/02/23 00:26:34.073: Request sent to server: get, job
+2024/02/23 00:26:34.074: Return message received from server: analyst
+2024/02/23 00:26:34.074: Request sent to server: delete, job
+2024/02/23 00:26:34.074: Return message received from server: Key successfully removed from store.
+2024/02/23 00:26:46.259: Request sent to server: q
+2024/02/23 00:26:46.264: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:27:47.608: Request sent to server: put, class, CS6650
+2024/02/23 00:27:47.618: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.618: Packet received from server malformed.
+2024/02/23 00:27:47.618: Request sent to server: put, semester, Spring2024
+2024/02/23 00:27:47.619: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.619: Packet received from server malformed.
+2024/02/23 00:27:47.619: Request sent to server: put, professor, Saripalli
+2024/02/23 00:27:47.620: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.620: Packet received from server malformed.
+2024/02/23 00:27:47.620: Request sent to server: put, program, MSCS
+2024/02/23 00:27:47.621: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.621: Packet received from server malformed.
+2024/02/23 00:27:47.621: Request sent to server: put, university, Northeastern
+2024/02/23 00:27:47.622: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.622: Packet received from server malformed.
+2024/02/23 00:27:47.622: Request sent to server: put, name, dominic
+2024/02/23 00:27:47.623: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.623: Packet received from server malformed.
+2024/02/23 00:27:47.623: Request sent to server: get, name
+2024/02/23 00:27:47.624: Return message received from server: dominic
+2024/02/23 00:27:47.624: Request sent to server: delete, name
+2024/02/23 00:27:47.625: Return message received from server: Key successfully removed from store.
+2024/02/23 00:27:47.625: Request sent to server: put, degree, CS
+2024/02/23 00:27:47.626: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.626: Packet received from server malformed.
+2024/02/23 00:27:47.626: Request sent to server: get, degree
+2024/02/23 00:27:47.627: Return message received from server: cs
+2024/02/23 00:27:47.627: Request sent to server: delete, degree
+2024/02/23 00:27:47.628: Return message received from server: Key successfully removed from store.
+2024/02/23 00:27:47.628: Request sent to server: put, industry, ecommerce
+2024/02/23 00:27:47.629: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.629: Packet received from server malformed.
+2024/02/23 00:27:47.629: Request sent to server: get, industry
+2024/02/23 00:27:47.629: Return message received from server: ecommerce
+2024/02/23 00:27:47.629: Request sent to server: delete, industry
+2024/02/23 00:27:47.630: Return message received from server: Key successfully removed from store.
+2024/02/23 00:27:47.630: Request sent to server: put, location, boston
+2024/02/23 00:27:47.631: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.631: Packet received from server malformed.
+2024/02/23 00:27:47.631: Request sent to server: get, location
+2024/02/23 00:27:47.632: Return message received from server: boston
+2024/02/23 00:27:47.632: Request sent to server: delete, location
+2024/02/23 00:27:47.632: Return message received from server: Key successfully removed from store.
+2024/02/23 00:27:47.632: Request sent to server: put, job, analyst
+2024/02/23 00:27:47.633: No header available for packet. Checksum not validated
+2024/02/23 00:27:47.633: Packet received from server malformed.
+2024/02/23 00:27:47.633: Request sent to server: get, job
+2024/02/23 00:27:47.634: Return message received from server: analyst
+2024/02/23 00:27:47.634: Request sent to server: delete, job
+2024/02/23 00:27:47.635: Return message received from server: Key successfully removed from store.
+2024/02/23 00:28:42.768: Request sent to server: q
+2024/02/23 00:28:42.772: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:31:03.736: Request sent to server: put, class, CS6650
+2024/02/23 00:31:03.751: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.751: Packet received from server malformed.
+2024/02/23 00:31:03.752: Request sent to server: put, semester, Spring2024
+2024/02/23 00:31:03.752: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.752: Packet received from server malformed.
+2024/02/23 00:31:03.753: Request sent to server: put, professor, Saripalli
+2024/02/23 00:31:03.753: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.753: Packet received from server malformed.
+2024/02/23 00:31:03.754: Request sent to server: put, program, MSCS
+2024/02/23 00:31:03.754: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.754: Packet received from server malformed.
+2024/02/23 00:31:03.754: Request sent to server: put, university, Northeastern
+2024/02/23 00:31:03.755: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.755: Packet received from server malformed.
+2024/02/23 00:31:03.755: Request sent to server: put, name, dominic
+2024/02/23 00:31:03.756: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.756: Packet received from server malformed.
+2024/02/23 00:31:03.756: Request sent to server: get, name
+2024/02/23 00:31:03.757: Return message received from server: dominic
+2024/02/23 00:31:03.757: Request sent to server: delete, name
+2024/02/23 00:31:03.759: Return message received from server: Key successfully removed from store.
+2024/02/23 00:31:03.759: Request sent to server: put, degree, CS
+2024/02/23 00:31:03.760: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.760: Packet received from server malformed.
+2024/02/23 00:31:03.760: Request sent to server: get, degree
+2024/02/23 00:31:03.761: Return message received from server: cs
+2024/02/23 00:31:03.761: Request sent to server: delete, degree
+2024/02/23 00:31:03.761: Return message received from server: Key successfully removed from store.
+2024/02/23 00:31:03.762: Request sent to server: put, industry, ecommerce
+2024/02/23 00:31:03.762: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.762: Packet received from server malformed.
+2024/02/23 00:31:03.763: Request sent to server: get, industry
+2024/02/23 00:31:03.763: Return message received from server: ecommerce
+2024/02/23 00:31:03.763: Request sent to server: delete, industry
+2024/02/23 00:31:03.764: Return message received from server: Key successfully removed from store.
+2024/02/23 00:31:03.764: Request sent to server: put, location, boston
+2024/02/23 00:31:03.765: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.765: Packet received from server malformed.
+2024/02/23 00:31:03.765: Request sent to server: get, location
+2024/02/23 00:31:03.766: Return message received from server: boston
+2024/02/23 00:31:03.766: Request sent to server: delete, location
+2024/02/23 00:31:03.766: Return message received from server: Key successfully removed from store.
+2024/02/23 00:31:03.766: Request sent to server: put, job, analyst
+2024/02/23 00:31:03.767: No header available for packet. Checksum not validated
+2024/02/23 00:31:03.767: Packet received from server malformed.
+2024/02/23 00:31:03.767: Request sent to server: get, job
+2024/02/23 00:31:03.768: Return message received from server: analyst
+2024/02/23 00:31:03.768: Request sent to server: delete, job
+2024/02/23 00:31:03.768: Return message received from server: Key successfully removed from store.
+2024/02/23 00:31:47.578: Request sent to server: q
+2024/02/23 00:31:47.580: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:42:51.995: Request sent to server: put, class, CS6650
+2024/02/23 00:42:52.011: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.012: Packet received from server malformed.
+2024/02/23 00:42:52.012: Request sent to server: put, semester, Spring2024
+2024/02/23 00:42:52.013: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.013: Packet received from server malformed.
+2024/02/23 00:42:52.013: Request sent to server: put, professor, Saripalli
+2024/02/23 00:42:52.013: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.014: Packet received from server malformed.
+2024/02/23 00:42:52.014: Request sent to server: put, program, MSCS
+2024/02/23 00:42:52.014: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.014: Packet received from server malformed.
+2024/02/23 00:42:52.014: Request sent to server: put, university, Northeastern
+2024/02/23 00:42:52.015: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.015: Packet received from server malformed.
+2024/02/23 00:42:52.015: Request sent to server: put, name, dominic
+2024/02/23 00:42:52.016: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.016: Packet received from server malformed.
+2024/02/23 00:42:52.016: Request sent to server: get, name
+2024/02/23 00:42:52.017: Return message received from server: dominic
+2024/02/23 00:42:52.017: Request sent to server: delete, name
+2024/02/23 00:42:52.019: Return message received from server: Key successfully removed from store.
+2024/02/23 00:42:52.019: Request sent to server: put, degree, CS
+2024/02/23 00:42:52.020: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.020: Packet received from server malformed.
+2024/02/23 00:42:52.020: Request sent to server: get, degree
+2024/02/23 00:42:52.021: Return message received from server: cs
+2024/02/23 00:42:52.021: Request sent to server: delete, degree
+2024/02/23 00:42:52.021: Return message received from server: Key successfully removed from store.
+2024/02/23 00:42:52.021: Request sent to server: put, industry, ecommerce
+2024/02/23 00:42:52.022: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.022: Packet received from server malformed.
+2024/02/23 00:42:52.022: Request sent to server: get, industry
+2024/02/23 00:42:52.023: Return message received from server: ecommerce
+2024/02/23 00:42:52.023: Request sent to server: delete, industry
+2024/02/23 00:42:52.024: Return message received from server: Key successfully removed from store.
+2024/02/23 00:42:52.024: Request sent to server: put, location, boston
+2024/02/23 00:42:52.025: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.025: Packet received from server malformed.
+2024/02/23 00:42:52.025: Request sent to server: get, location
+2024/02/23 00:42:52.026: Return message received from server: boston
+2024/02/23 00:42:52.026: Request sent to server: delete, location
+2024/02/23 00:42:52.027: Return message received from server: Key successfully removed from store.
+2024/02/23 00:42:52.027: Request sent to server: put, job, analyst
+2024/02/23 00:42:52.028: No header available for packet. Checksum not validated
+2024/02/23 00:42:52.028: Packet received from server malformed.
+2024/02/23 00:42:52.028: Request sent to server: get, job
+2024/02/23 00:42:52.028: Return message received from server: analyst
+2024/02/23 00:42:52.028: Request sent to server: delete, job
+2024/02/23 00:42:52.029: Return message received from server: Key successfully removed from store.
+2024/02/23 00:43:31.223: Request sent to server: put, name, dom
+2024/02/23 00:43:31.228: No header available for packet. Checksum not validated
+2024/02/23 00:43:31.228: Packet received from server malformed.
+2024/02/23 00:43:47.522: Request sent to server: get, name
+2024/02/23 00:43:47.527: Return message received from server: dom
+2024/02/23 00:43:53.572: Request sent to server: q
+2024/02/23 00:43:53.578: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 00:45:08.875: Request sent to server: put, class, CS6650
+2024/02/23 00:45:08.891: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 00:45:08.891: Request sent to server: put, semester, Spring2024
+2024/02/23 00:45:08.892: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 00:45:08.892: Request sent to server: put, professor, Saripalli
+2024/02/23 00:45:08.893: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 00:45:08.893: Request sent to server: put, program, MSCS
+2024/02/23 00:45:08.893: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 00:45:08.894: Request sent to server: put, university, Northeastern
+2024/02/23 00:45:08.894: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 00:45:08.894: Request sent to server: put, name, dominic
+2024/02/23 00:45:08.895: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 00:45:08.895: Request sent to server: get, name
+2024/02/23 00:45:08.896: Return message received from server: dominic
+2024/02/23 00:45:08.896: Request sent to server: delete, name
+2024/02/23 00:45:08.898: Return message received from server: Key successfully removed from store.
+2024/02/23 00:45:08.898: Request sent to server: put, degree, CS
+2024/02/23 00:45:08.898: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 00:45:08.899: Request sent to server: get, degree
+2024/02/23 00:45:08.899: Return message received from server: cs
+2024/02/23 00:45:08.899: Request sent to server: delete, degree
+2024/02/23 00:45:08.900: Return message received from server: Key successfully removed from store.
+2024/02/23 00:45:08.900: Request sent to server: put, industry, ecommerce
+2024/02/23 00:45:08.901: Return message received from server: New value for key, industry, added -> ecommerce
+2024/02/23 00:45:08.901: Request sent to server: get, industry
+2024/02/23 00:45:08.902: Return message received from server: ecommerce
+2024/02/23 00:45:08.902: Request sent to server: delete, industry
+2024/02/23 00:45:08.903: Return message received from server: Key successfully removed from store.
+2024/02/23 00:45:08.903: Request sent to server: put, location, boston
+2024/02/23 00:45:08.903: Return message received from server: New value for key, location, added -> boston
+2024/02/23 00:45:08.903: Request sent to server: get, location
+2024/02/23 00:45:08.904: Return message received from server: boston
+2024/02/23 00:45:08.904: Request sent to server: delete, location
+2024/02/23 00:45:08.905: Return message received from server: Key successfully removed from store.
+2024/02/23 00:45:08.905: Request sent to server: put, job, analyst
+2024/02/23 00:45:08.905: Return message received from server: New value for key, job, added -> analyst
+2024/02/23 00:45:08.905: Request sent to server: get, job
+2024/02/23 00:45:08.906: Return message received from server: analyst
+2024/02/23 00:45:08.906: Request sent to server: delete, job
+2024/02/23 00:45:08.907: Return message received from server: Key successfully removed from store.
+2024/02/23 00:46:07.053: Request sent to server: q
+2024/02/23 00:46:07.110: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 01:10:40.001: Request sent to server: put, class, CS6650
+2024/02/23 01:10:40.015: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 01:10:40.015: Request sent to server: put, semester, Spring2024
+2024/02/23 01:10:40.016: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 01:10:40.016: Request sent to server: put, professor, Saripalli
+2024/02/23 01:10:40.016: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 01:10:40.017: Request sent to server: put, program, MSCS
+2024/02/23 01:10:40.017: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 01:10:40.017: Request sent to server: put, university, Northeastern
+2024/02/23 01:10:40.018: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 01:10:40.018: Request sent to server: put, name, dominic
+2024/02/23 01:10:40.019: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 01:10:40.019: Request sent to server: get, name
+2024/02/23 01:10:40.020: Return message received from server: dominic
+2024/02/23 01:10:40.020: Request sent to server: delete, name
+2024/02/23 01:10:40.022: Return message received from server: Key successfully removed from store.
+2024/02/23 01:10:40.022: Request sent to server: put, degree, CS
+2024/02/23 01:10:40.022: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 01:10:40.023: Request sent to server: get, degree
+2024/02/23 01:10:40.023: Return message received from server: cs
+2024/02/23 01:10:40.023: Request sent to server: delete, degree
+2024/02/23 01:10:40.024: Return message received from server: Key successfully removed from store.
+2024/02/23 01:10:40.024: Request sent to server: put, industry, ecommerce
+2024/02/23 01:10:40.025: Return message received from server: New value for key, industry, added -> ecommerce
+2024/02/23 01:10:40.025: Request sent to server: get, industry
+2024/02/23 01:10:40.026: Return message received from server: ecommerce
+2024/02/23 01:10:40.026: Request sent to server: delete, industry
+2024/02/23 01:10:40.027: Return message received from server: Key successfully removed from store.
+2024/02/23 01:10:40.027: Request sent to server: put, location, boston
+2024/02/23 01:10:40.027: Return message received from server: New value for key, location, added -> boston
+2024/02/23 01:10:40.027: Request sent to server: get, location
+2024/02/23 01:10:40.028: Return message received from server: boston
+2024/02/23 01:10:40.028: Request sent to server: delete, location
+2024/02/23 01:10:40.029: Return message received from server: Key successfully removed from store.
+2024/02/23 01:10:40.029: Request sent to server: put, job, analyst
+2024/02/23 01:10:40.030: Return message received from server: New value for key, job, added -> analyst
+2024/02/23 01:10:40.030: Request sent to server: get, job
+2024/02/23 01:10:40.030: Return message received from server: analyst
+2024/02/23 01:10:40.030: Request sent to server: delete, job
+2024/02/23 01:10:40.031: Return message received from server: Key successfully removed from store.
+2024/02/23 01:11:35.878: Request sent to server: get, me me, name
+2024/02/23 01:11:35.888: Return message received from server: Datagram packet malformed.
+2024/02/23 01:11:57.215: Request sent to server: q
+2024/02/23 01:11:57.218: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 08:34:36.365: Request sent to server: put, class, CS6650
+2024/02/23 08:34:51.368: Unable to send pre-populated data.
+2024/02/23 08:34:51.371: Request sent to server: put, semester, Spring2024
+2024/02/23 08:34:52.389: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 08:34:52.390: Request sent to server: put, professor, Saripalli
+2024/02/23 08:35:07.390: Unable to send pre-populated data.
+2024/02/23 08:35:07.392: Request sent to server: put, program, MSCS
+2024/02/23 08:35:08.398: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 08:35:08.399: Request sent to server: put, university, Northeastern
+2024/02/23 08:35:23.399: Unable to send pre-populated data.
+2024/02/23 08:35:23.403: Request sent to server: put, name, dominic
+2024/02/23 08:35:24.407: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 08:35:24.409: Request sent to server: get, name
+2024/02/23 08:35:39.410: Request sent to server: delete, name
+2024/02/23 08:35:40.417: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 08:35:40.418: Request sent to server: put, degree, CS
+2024/02/23 08:35:55.419: Request sent to server: get, degree
+2024/02/23 08:35:56.421: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 08:35:56.422: Request sent to server: delete, degree
+2024/02/23 08:36:11.422: Request sent to server: put, industry, ecommerce
+2024/02/23 08:36:12.425: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 08:36:12.426: Request sent to server: get, industry
+2024/02/23 08:36:27.427: Request sent to server: delete, industry
+2024/02/23 08:36:28.434: Return message received from server: dominic
+2024/02/23 08:36:28.435: Request sent to server: put, location, boston
+2024/02/23 08:36:43.436: Request sent to server: get, location
+2024/02/23 08:36:44.454: Return message received from server: Key successfully removed from store.
+2024/02/23 08:36:44.456: Request sent to server: delete, location
+2024/02/23 08:36:59.456: Request sent to server: put, job, analyst
+2024/02/23 08:37:00.463: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 08:37:00.465: Request sent to server: get, job
+2024/02/23 08:37:15.465: Request sent to server: delete, job
+2024/02/23 08:37:16.472: Return message received from server: cs
+2024/02/23 08:48:38.187: Request sent to server: q
+2024/02/23 08:48:38.189: Return message received from server: Key successfully removed from store.
+2024/02/23 08:52:27.611: Request sent to server: put, class, CS6650
+2024/02/23 08:52:28.613: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:28.615: Request sent to server: put, semester, Spring2024
+2024/02/23 08:52:29.617: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:29.620: Request sent to server: put, professor, Saripalli
+2024/02/23 08:52:30.621: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:30.624: Request sent to server: put, program, MSCS
+2024/02/23 08:52:31.626: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:31.629: Request sent to server: put, university, Northeastern
+2024/02/23 08:52:32.631: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:32.633: Request sent to server: put, name, dominic
+2024/02/23 08:52:32.635: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 08:52:32.635: Request sent to server: get, name
+2024/02/23 08:52:33.636: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:33.639: Request sent to server: delete, name
+2024/02/23 08:52:34.641: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:34.643: Request sent to server: put, degree, CS
+2024/02/23 08:52:35.644: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:35.646: Request sent to server: get, degree
+2024/02/23 08:52:36.647: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:36.650: Request sent to server: delete, degree
+2024/02/23 08:52:37.646: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 08:52:37.649: Request sent to server: put, industry, ecommerce
+2024/02/23 08:52:38.651: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:38.654: Request sent to server: get, industry
+2024/02/23 08:52:39.655: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:39.658: Request sent to server: delete, industry
+2024/02/23 08:52:40.660: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:40.663: Request sent to server: put, location, boston
+2024/02/23 08:52:41.664: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:41.667: Request sent to server: get, location
+2024/02/23 08:52:42.652: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 08:52:42.653: Request sent to server: delete, location
+2024/02/23 08:52:43.655: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:43.658: Request sent to server: put, job, analyst
+2024/02/23 08:52:44.659: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:44.661: Request sent to server: get, job
+2024/02/23 08:52:45.663: Server unresponsive, timeout mechanism executed
+2024/02/23 08:52:45.666: Request sent to server: delete, job
+2024/02/23 08:52:46.667: Server unresponsive, timeout mechanism executed
+2024/02/23 08:54:57.560: Request sent to server: q
+2024/02/23 08:54:57.562: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 08:55:29.428: Request sent to server: put, class, CS6650
+2024/02/23 08:55:29.438: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 08:55:29.438: Request sent to server: put, semester, Spring2024
+2024/02/23 08:55:29.439: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 08:55:29.439: Request sent to server: put, professor, Saripalli
+2024/02/23 08:55:29.439: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 08:55:29.439: Request sent to server: put, program, MSCS
+2024/02/23 08:55:29.440: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 08:55:29.440: Request sent to server: put, university, Northeastern
+2024/02/23 08:55:29.441: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 08:55:29.441: Request sent to server: put, name, dominic
+2024/02/23 08:55:29.442: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 08:55:29.442: Request sent to server: get, name
+2024/02/23 08:55:29.442: Return message received from server: dominic
+2024/02/23 08:55:29.443: Request sent to server: delete, name
+2024/02/23 08:55:29.443: Return message received from server: Key successfully removed from store.
+2024/02/23 08:55:29.443: Request sent to server: put, degree, CS
+2024/02/23 08:55:29.444: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 08:55:29.444: Request sent to server: get, degree
+2024/02/23 08:55:29.444: Return message received from server: cs
+2024/02/23 08:55:29.445: Request sent to server: delete, degree
+2024/02/23 08:55:29.445: Return message received from server: Key successfully removed from store.
+2024/02/23 08:55:29.445: Request sent to server: put, industry, ecommerce
+2024/02/23 08:55:29.446: Return message received from server: New value for key, industry, added -> ecommerce
+2024/02/23 08:55:29.446: Request sent to server: get, industry
+2024/02/23 08:55:29.447: Return message received from server: ecommerce
+2024/02/23 08:55:29.447: Request sent to server: delete, industry
+2024/02/23 08:55:29.447: Return message received from server: Key successfully removed from store.
+2024/02/23 08:55:29.448: Request sent to server: put, location, boston
+2024/02/23 08:55:29.448: Return message received from server: New value for key, location, added -> boston
+2024/02/23 08:55:29.448: Request sent to server: get, location
+2024/02/23 08:55:29.449: Return message received from server: boston
+2024/02/23 08:55:29.449: Request sent to server: delete, location
+2024/02/23 08:55:29.449: Return message received from server: Key successfully removed from store.
+2024/02/23 08:55:29.450: Request sent to server: put, job, analyst
+2024/02/23 08:55:29.450: Return message received from server: New value for key, job, added -> analyst
+2024/02/23 08:55:29.450: Request sent to server: get, job
+2024/02/23 08:55:29.451: Return message received from server: analyst
+2024/02/23 08:55:29.451: Request sent to server: delete, job
+2024/02/23 08:55:29.451: Return message received from server: Key successfully removed from store.
+2024/02/23 08:56:00.788: Request sent to server: q
+2024/02/23 08:56:00.791: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 08:57:33.850: Request sent to server: put, class, CS6650
+2024/02/23 08:57:34.852: Unable to send pre-populated data.
+2024/02/23 08:57:34.854: Request sent to server: put, semester, Spring2024
+2024/02/23 08:57:35.856: Unable to send pre-populated data.
+2024/02/23 08:57:35.858: Request sent to server: put, professor, Saripalli
+2024/02/23 08:57:36.859: Unable to send pre-populated data.
+2024/02/23 08:57:36.861: Request sent to server: put, program, MSCS
+2024/02/23 08:57:37.862: Unable to send pre-populated data.
+2024/02/23 08:57:37.864: Request sent to server: put, university, Northeastern
+2024/02/23 08:57:38.867: Unable to send pre-populated data.
+2024/02/23 08:57:38.868: Request sent to server: put, name, dominic
+2024/02/23 08:57:38.869: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 08:57:38.870: Request sent to server: get, name
+2024/02/23 08:57:39.871: Unable to sent get request for key: name
+2024/02/23 08:57:39.873: Request sent to server: delete, name
+2024/02/23 08:57:40.874: Unable to sent delete request for key: name
+2024/02/23 08:57:40.877: Request sent to server: put, degree, CS
+2024/02/23 08:57:41.879: Unable to sent put request for key: degree
+2024/02/23 08:57:41.881: Request sent to server: get, degree
+2024/02/23 08:57:42.882: Unable to sent get request for key: degree
+2024/02/23 08:57:42.884: Request sent to server: delete, degree
+2024/02/23 08:57:43.878: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 08:57:43.879: Request sent to server: put, industry, ecommerce
+2024/02/23 08:57:44.880: Unable to sent put request for key: industry
+2024/02/23 08:57:44.883: Request sent to server: get, industry
+2024/02/23 08:57:45.884: Unable to sent get request for key: industry
+2024/02/23 08:57:45.886: Request sent to server: delete, industry
+2024/02/23 08:57:46.887: Unable to sent delete request for key: industry
+2024/02/23 08:57:46.889: Request sent to server: put, location, boston
+2024/02/23 08:57:47.890: Unable to sent put request for key: location
+2024/02/23 08:57:47.893: Request sent to server: get, location
+2024/02/23 08:57:48.887: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 08:57:48.888: Request sent to server: delete, location
+2024/02/23 08:57:49.889: Unable to sent delete request for key: location
+2024/02/23 08:57:49.892: Request sent to server: put, job, analyst
+2024/02/23 08:57:50.893: Unable to sent put request for key: job
+2024/02/23 08:57:50.895: Request sent to server: get, job
+2024/02/23 08:57:51.896: Unable to sent get request for key: job
+2024/02/23 08:57:51.897: Request sent to server: delete, job
+2024/02/23 08:57:52.898: Unable to sent delete request for key: job
+2024/02/23 09:00:20.181: Request sent to server: q
+2024/02/23 09:00:20.230: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 09:05:22.236: Request sent to server: put, class, CS6650
+2024/02/23 09:05:23.237: Unable to send pre-populated data.
+2024/02/23 09:05:23.240: Request sent to server: put, semester, Spring2024
+2024/02/23 09:05:24.241: Unable to send pre-populated data.
+2024/02/23 09:05:24.243: Request sent to server: put, professor, Saripalli
+2024/02/23 09:05:25.244: Unable to send pre-populated data.
+2024/02/23 09:05:25.247: Request sent to server: put, program, MSCS
+2024/02/23 09:05:26.248: Unable to send pre-populated data.
+2024/02/23 09:05:26.250: Request sent to server: put, university, Northeastern
+2024/02/23 09:05:27.251: Unable to send pre-populated data.
+2024/02/23 09:05:27.255: Request sent to server: put, name, dominic
+2024/02/23 09:05:28.257: Unable to sent put request for key: name
+2024/02/23 09:05:28.259: Request sent to server: get, name
+2024/02/23 09:05:29.260: Unable to sent get request for key: name
+2024/02/23 09:05:29.263: Request sent to server: delete, name
+2024/02/23 09:05:30.257: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 09:05:30.258: Request sent to server: put, degree, CS
+2024/02/23 09:05:31.259: Unable to sent put request for key: degree
+2024/02/23 09:05:31.261: Request sent to server: get, degree
+2024/02/23 09:05:32.262: Unable to sent get request for key: degree
+2024/02/23 09:05:32.264: Request sent to server: delete, degree
+2024/02/23 09:05:33.266: Unable to sent delete request for key: degree
+2024/02/23 09:05:33.269: Request sent to server: put, industry, ecommerce
+2024/02/23 09:05:34.270: Unable to sent put request for key: industry
+2024/02/23 09:05:34.272: Request sent to server: get, industry
+2024/02/23 09:05:35.273: Unable to sent get request for key: industry
+2024/02/23 09:05:35.274: Request sent to server: delete, industry
+2024/02/23 09:05:36.275: Unable to sent delete request for key: industry
+2024/02/23 09:05:36.278: Request sent to server: put, location, boston
+2024/02/23 09:05:37.279: Unable to sent put request for key: location
+2024/02/23 09:05:37.280: Request sent to server: get, location
+2024/02/23 09:05:38.266: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 09:05:38.268: Request sent to server: delete, location
+2024/02/23 09:05:39.270: Unable to sent delete request for key: location
+2024/02/23 09:05:39.273: Request sent to server: put, job, analyst
+2024/02/23 09:05:40.275: Unable to sent put request for key: job
+2024/02/23 09:05:40.277: Request sent to server: get, job
+2024/02/23 09:05:41.278: Unable to sent get request for key: job
+2024/02/23 09:05:41.282: Request sent to server: delete, job
+2024/02/23 09:05:42.283: Unable to sent delete request for key: job
+2024/02/23 09:07:08.412: Request sent to server: q
+2024/02/23 09:07:08.414: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 09:08:57.087: Request sent to server: put, class, CS6650
+2024/02/23 09:08:58.089: Server unresponsive, timeout mechanism executed
+2024/02/23 09:08:58.092: Request sent to server: put, semester, Spring2024
+2024/02/23 09:08:59.093: Server unresponsive, timeout mechanism executed
+2024/02/23 09:08:59.096: Request sent to server: put, professor, Saripalli
+2024/02/23 09:09:00.097: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:00.099: Request sent to server: put, program, MSCS
+2024/02/23 09:09:01.100: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:01.102: Request sent to server: put, university, Northeastern
+2024/02/23 09:09:02.103: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:02.106: Request sent to server: put, name, dominic
+2024/02/23 09:09:03.108: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:03.111: Request sent to server: get, name
+2024/02/23 09:09:04.113: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:04.115: Request sent to server: delete, name
+2024/02/23 09:09:05.108: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 09:09:05.109: Request sent to server: put, degree, CS
+2024/02/23 09:09:06.110: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:06.112: Request sent to server: get, degree
+2024/02/23 09:09:07.113: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:07.115: Request sent to server: delete, degree
+2024/02/23 09:09:08.116: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:08.119: Request sent to server: put, industry, ecommerce
+2024/02/23 09:09:09.121: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:09.124: Request sent to server: get, industry
+2024/02/23 09:09:10.125: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:10.127: Request sent to server: delete, industry
+2024/02/23 09:09:11.129: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:11.133: Request sent to server: put, location, boston
+2024/02/23 09:09:12.134: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:12.137: Request sent to server: get, location
+2024/02/23 09:09:13.119: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 09:09:13.120: Request sent to server: delete, location
+2024/02/23 09:09:14.122: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:14.124: Request sent to server: put, job, analyst
+2024/02/23 09:09:15.125: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:15.127: Request sent to server: get, job
+2024/02/23 09:09:16.129: Server unresponsive, timeout mechanism executed
+2024/02/23 09:09:16.132: Request sent to server: delete, job
+2024/02/23 09:09:17.133: Server unresponsive, timeout mechanism executed
+2024/02/23 09:11:31.934: Request sent to server: q
+2024/02/23 09:11:31.936: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 09:14:26.554: Request sent to server: put, class, CS6650
+2024/02/23 09:14:26.563: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 09:14:26.563: Request sent to server: put, semester, Spring2024
+2024/02/23 09:14:26.564: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 09:14:26.564: Request sent to server: put, professor, Saripalli
+2024/02/23 09:14:26.565: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 09:14:26.565: Request sent to server: put, program, MSCS
+2024/02/23 09:14:26.566: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 09:14:26.566: Request sent to server: put, university, Northeastern
+2024/02/23 09:14:26.566: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 09:14:26.567: Request sent to server: put, name, dominic
+2024/02/23 09:14:26.567: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 09:14:26.568: Request sent to server: get, name
+2024/02/23 09:14:26.568: Return message received from server: dominic
+2024/02/23 09:14:26.568: Request sent to server: delete, name
+2024/02/23 09:14:26.569: Return message received from server: Key successfully removed from store.
+2024/02/23 09:14:26.569: Request sent to server: put, degree, CS
+2024/02/23 09:14:26.570: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 09:14:26.570: Request sent to server: get, degree
+2024/02/23 09:14:26.570: Return message received from server: cs
+2024/02/23 09:14:26.571: Request sent to server: delete, degree
+2024/02/23 09:14:26.571: Return message received from server: Key successfully removed from store.
+2024/02/23 09:14:26.571: Request sent to server: put, industry, ecommerce
+2024/02/23 09:14:26.572: Return message received from server: New value for key, industry, added -> ecommerce
+2024/02/23 09:14:26.572: Request sent to server: get, industry
+2024/02/23 09:14:26.572: Return message received from server: ecommerce
+2024/02/23 09:14:26.572: Request sent to server: delete, industry
+2024/02/23 09:14:26.573: Return message received from server: Key successfully removed from store.
+2024/02/23 09:14:26.573: Request sent to server: put, location, boston
+2024/02/23 09:14:26.574: Return message received from server: New value for key, location, added -> boston
+2024/02/23 09:14:26.574: Request sent to server: get, location
+2024/02/23 09:14:26.574: Return message received from server: boston
+2024/02/23 09:14:26.575: Request sent to server: delete, location
+2024/02/23 09:14:26.575: Return message received from server: Key successfully removed from store.
+2024/02/23 09:14:26.575: Request sent to server: put, job, analyst
+2024/02/23 09:14:26.576: Return message received from server: New value for key, job, added -> analyst
+2024/02/23 09:14:26.576: Request sent to server: get, job
+2024/02/23 09:14:26.576: Return message received from server: analyst
+2024/02/23 09:14:26.576: Request sent to server: delete, job
+2024/02/23 09:14:26.577: Return message received from server: Key successfully removed from store.
+2024/02/23 09:14:33.098: Request sent to server: put, name
+2024/02/23 09:14:33.111: Return message received from server: Datagram packet malformed.
+2024/02/23 09:14:51.158: Request sent to server: get, class
+2024/02/23 09:14:51.161: Return message received from server: cs6650
+2024/02/23 09:15:00.717: Request sent to server: delete, class
+2024/02/23 09:15:00.724: Return message received from server: Key successfully removed from store.
+2024/02/23 09:15:05.478: Request sent to server: get, class
+2024/02/23 09:15:05.537: Return message received from server: No key found in data store.
+2024/02/23 09:15:15.730: Request sent to server: put, class, cs6650
+2024/02/23 09:15:15.733: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 09:15:24.086: Request sent to server: get, class
+2024/02/23 09:15:24.089: Return message received from server: cs6650
+2024/02/23 09:15:32.316: Request sent to server: delete, class, 
+2024/02/23 09:15:32.322: Return message received from server: Datagram packet malformed.
+2024/02/23 09:15:41.784: Request sent to server: q
+2024/02/23 09:15:41.789: Return message received from server: Quit requested. Server shutting down.
+2024/02/23 09:17:02.660: Request sent to server: put, class, CS6650
+2024/02/23 09:17:02.673: Return message received from server: New value for key, class, added -> cs6650
+2024/02/23 09:17:02.674: Request sent to server: put, semester, Spring2024
+2024/02/23 09:17:02.674: Return message received from server: New value for key, semester, added -> spring2024
+2024/02/23 09:17:02.674: Request sent to server: put, professor, Saripalli
+2024/02/23 09:17:02.675: Return message received from server: New value for key, professor, added -> saripalli
+2024/02/23 09:17:02.675: Request sent to server: put, program, MSCS
+2024/02/23 09:17:02.676: Return message received from server: New value for key, program, added -> mscs
+2024/02/23 09:17:02.676: Request sent to server: put, university, Northeastern
+2024/02/23 09:17:02.676: Return message received from server: New value for key, university, added -> northeastern
+2024/02/23 09:17:02.677: Request sent to server: put, name, dominic
+2024/02/23 09:17:02.677: Return message received from server: New value for key, name, added -> dominic
+2024/02/23 09:17:02.677: Request sent to server: get, name
+2024/02/23 09:17:02.678: Return message received from server: dominic
+2024/02/23 09:17:02.678: Request sent to server: delete, name
+2024/02/23 09:17:02.680: Return message received from server: Key successfully removed from store.
+2024/02/23 09:17:02.680: Request sent to server: put, degree, CS
+2024/02/23 09:17:02.681: Return message received from server: New value for key, degree, added -> cs
+2024/02/23 09:17:02.681: Request sent to server: get, degree
+2024/02/23 09:17:02.681: Return message received from server: cs
+2024/02/23 09:17:02.682: Request sent to server: delete, degree
+2024/02/23 09:17:02.682: Return message received from server: Key successfully removed from store.
+2024/02/23 09:17:02.682: Request sent to server: put, industry, ecommerce
+2024/02/23 09:17:02.683: Return message received from server: New value for key, industry, added -> ecommerce
+2024/02/23 09:17:02.683: Request sent to server: get, industry
+2024/02/23 09:17:02.684: Return message received from server: ecommerce
+2024/02/23 09:17:02.684: Request sent to server: delete, industry
+2024/02/23 09:17:02.685: Return message received from server: Key successfully removed from store.
+2024/02/23 09:17:02.685: Request sent to server: put, location, boston
+2024/02/23 09:17:02.685: Return message received from server: New value for key, location, added -> boston
+2024/02/23 09:17:02.686: Request sent to server: get, location
+2024/02/23 09:17:02.686: Return message received from server: boston
+2024/02/23 09:17:02.686: Request sent to server: delete, location
+2024/02/23 09:17:02.687: Return message received from server: Key successfully removed from store.
+2024/02/23 09:17:02.687: Request sent to server: put, job, analyst
+2024/02/23 09:17:02.688: Return message received from server: New value for key, job, added -> analyst
+2024/02/23 09:17:02.688: Request sent to server: get, job
+2024/02/23 09:17:02.688: Return message received from server: analyst
+2024/02/23 09:17:02.688: Request sent to server: delete, job
+2024/02/23 09:17:02.689: Return message received from server: Key successfully removed from store.
+2024/02/23 09:17:12.417: Request sent to server: put, job, none
+2024/02/23 09:17:12.425: Return message received from server: New value for key, job, added -> none
+2024/02/23 09:17:19.289: Request sent to server: get, job
+2024/02/23 09:17:19.291: Return message received from server: none
+2024/02/23 09:17:28.559: Request sent to server: delete, job
+2024/02/23 09:17:28.563: Return message received from server: Key successfully removed from store.
+2024/02/23 09:22:36.080: Request sent to server: delete, job
+2024/02/23 09:22:36.084: Return message received from server: Key did not exist in store.
+2024/02/23 09:22:43.688: Request sent to server: detle, mm, 
+2024/02/23 09:22:43.698: Return message received from server: Datagram packet malformed.
+2024/02/23 09:22:48.677: Request sent to server: q
+2024/02/23 09:22:48.682: Return message received from server: Quit requested. Server shutting down.
